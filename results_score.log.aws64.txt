@@ -1,0 +1,519 @@
+/scratch/hamiri/Research/geolife_star/r04/city/l001/id_t526064_l001_219/Checkin.tsv : (2.358778323485698, -1.3587783234856978)
+/scratch/hamiri/Research/geolife_star/r04/city/l001/id_t526064_l001_13/Checkin.tsv : (1.7989537479958984, -0.7989537479958984)
+/scratch/hamiri/Research/geolife_star/r04/city/l001/id_t526064_l001_95/Checkin.tsv : (1.7989537479958984, -0.7989537479958984)
+/scratch/hamiri/Research/geolife_star/r04/city/l001/id_t526064_l001_88/Checkin.tsv : (1.7989537479958984, -0.7989537479958984)
+/scratch/hamiri/Research/geolife_star/r04/city/l001/id_t526064_l001_195/Checkin.tsv : (2.7109118759804955, -1.7109118759804955)
+/scratch/hamiri/Research/geolife_star/r04/city/l001/id_t526064_l001_50/Checkin.tsv : (1.7989537479958984, -0.7989537479958984)
+/scratch/hamiri/Research/geolife_star/r04/city/l001/id_t526064_l001_1/Checkin.tsv : (1.7989537479958984, -0.7989537479958984)
+/scratch/hamiri/Research/geolife_star/r04/city/l001/id_t526064_l001_96/Checkin.tsv : (1.7989537479958984, -0.7989537479958984)
+/scratch/hamiri/Research/geolife_star/r04/city/l001/id_t526064_l001_85/Checkin.tsv : (1.7989537479958984, -0.7989537479958984)
+/scratch/hamiri/Research/geolife_star/r04/city/l001/id_t526064_l001_127/Checkin.tsv : (1.7989537479958984, -0.7989537479958984)
+/scratch/hamiri/Research/geolife_star/r04/city/l001/id_t526064_l001_80/Checkin.tsv : (2.9778801847857777, -1.9778801847857777)
+/scratch/hamiri/Research/geolife_star/r04/city/l001/id_t526064_l001_127/Checkin.tsv : (1.7989537479958984, -0.7989537479958984)
+/scratch/hamiri/Research/geolife_star/r04/city/l001/id_t526064_l001_96/Checkin.tsv : (1.7989537479958984, -0.7989537479958984)
+/scratch/hamiri/Research/geolife_star/r04/city/l001/id_t526064_l001_259/Checkin.tsv : 0
+/scratch/hamiri/Research/geolife_star/r04/city/l001/id_t526064_l001_53/Checkin.tsv : 0
+/scratch/hamiri/Research/geolife_star/r04/city/l001/id_t526064_l001_236/Checkin.tsv : 0
+/scratch/hamiri/Research/geolife_star/r04/city/l001/id_t526064_l001_1/Checkin.tsv : (1.7989537479958984, -0.7989537479958984)
+/scratch/hamiri/Research/geolife_star/r04/city/l001/id_t526064_l001_85/Checkin.tsv : (1.7989537479958984, -0.7989537479958984)
+/scratch/hamiri/Research/geolife_star/r04/city/l001/id_t526064_l001_261/Checkin.tsv : 0
+/scratch/hamiri/Research/geolife_star/r04/city/l001/id_t526064_l001_195/Checkin.tsv : (2.7109118759804955, -1.7109118759804955)
+/scratch/hamiri/Research/geolife_star/r04/city/l001/id_t526064_l001_164/Checkin.tsv : 0
+/scratch/hamiri/Research/geolife_star/r04/city/l001/id_t526064_l001_78/Checkin.tsv : 0
+/scratch/hamiri/Research/geolife_star/r04/city/l001/id_t526064_l001_74/Checkin.tsv : (1.659747155172007, -0.6597471551720071)
+/scratch/hamiri/Research/geolife_star/r04/city/l001/id_t526064_l001_118/Checkin.tsv : (0.6029153742635662, 0.39708462573643377)
+/scratch/hamiri/Research/geolife_star/r04/city/l001/id_t526064_l001_118/Checkin.tsv : (0.6029153742635662, 0.39708462573643377)
+/scratch/hamiri/Research/geolife_star/r04/city/l001/id_t526064_l001_238/Checkin.tsv : 0
+/scratch/hamiri/Research/geolife_star/r04/city/l001/id_t526064_l001_275/Checkin.tsv : 0
+/scratch/hamiri/Research/geolife_star/r04/city/l001/id_t526064_l001_230/Checkin.tsv : 0
+/scratch/hamiri/Research/geolife_star/r04/city/l001/id_t526064_l001_231/Checkin.tsv : 0
+/scratch/hamiri/Research/geolife_star/r04/city/l001/id_t526064_l001_60/Checkin.tsv : 0
+/scratch/hamiri/Research/geolife_star/r04/city/l001/id_t526064_l001_291/Checkin.tsv : 0
+/scratch/hamiri/Research/geolife_star/r04/city/l001/id_t526064_l001_283/Checkin.tsv : 0
+/scratch/hamiri/Research/geolife_star/r04/city/l001/id_t526064_l001_50/Checkin.tsv : (1.7989537479958984, -0.7989537479958984)
+/scratch/hamiri/Research/geolife_star/r04/city/l001/id_t526064_l001_247/Checkin.tsv : 0
+/scratch/hamiri/Research/geolife_star/r04/city/l001/id_t526064_l001_9/Checkin.tsv : 0
+/scratch/hamiri/Research/geolife_star/r04/city/l001/id_t526064_l001_312/Checkin.tsv : 0
+/scratch/hamiri/Research/geolife_star/r04/city/l001/id_t526064_l001_248/Checkin.tsv : 0
+/scratch/hamiri/Research/geolife_star/r04/city/l001/id_t526064_l001_88/Checkin.tsv : (1.7989537479958984, -0.7989537479958984)
+/scratch/hamiri/Research/geolife_star/r04/city/l001/id_t526064_l001_268/Checkin.tsv : 0
+/scratch/hamiri/Research/geolife_star/r04/city/l001/id_t526064_l001_186/Checkin.tsv : 0
+/scratch/hamiri/Research/geolife_star/r04/city/l001/id_t526064_l001_319/Checkin.tsv : 0
+/scratch/hamiri/Research/geolife_star/r04/city/l001/id_t526064_l001_218/Checkin.tsv : 0
+/scratch/hamiri/Research/geolife_star/r04/city/l001/id_t526064_l001_49/Checkin.tsv : 0
+/scratch/hamiri/Research/geolife_star/r04/city/l001/id_t526064_l001_282/Checkin.tsv : 0
+/scratch/hamiri/Research/geolife_star/r04/city/l001/id_t526064_l001_307/Checkin.tsv : 0
+/scratch/hamiri/Research/geolife_star/r04/city/l001/id_t526064_l001_74/Checkin.tsv : (1.659747155172007, -0.6597471551720071)
+/scratch/hamiri/Research/geolife_star/r04/city/l001/id_t526064_l001_80/Checkin.tsv : (2.9778801847857777, -1.9778801847857777)
+/scratch/hamiri/Research/geolife_star/r04/city/l001/id_t526064_l001_194/Checkin.tsv : 0
+/scratch/hamiri/Research/geolife_star/r04/city/l001/id_t526064_l001_54/Checkin.tsv : 0
+/scratch/hamiri/Research/geolife_star/r04/city/l001/id_t526064_l001_95/Checkin.tsv : (1.7989537479958984, -0.7989537479958984)
+/scratch/hamiri/Research/geolife_star/r04/city/l001/id_t526064_l001_0/Checkin.tsv : 0
+/scratch/hamiri/Research/geolife_star/r04/city/l001/id_t526064_l001_300/Checkin.tsv : 0
+/scratch/hamiri/Research/geolife_star/r04/city/l001/id_t526064_l001_91/Checkin.tsv : 0
+/scratch/hamiri/Research/geolife_star/r04/city/l001/id_t526064_l001_317/Checkin.tsv : 0
+/scratch/hamiri/Research/geolife_star/r04/city/l001/id_t526064_l001_31/Checkin.tsv : 0
+/scratch/hamiri/Research/geolife_star/r04/city/l001/id_t526064_l001_223/Checkin.tsv : 0
+/scratch/hamiri/Research/geolife_star/r04/city/l001/id_t526064_l001_71/Checkin.tsv : 0
+/scratch/hamiri/Research/geolife_star/r04/city/l001/id_t526064_l001_280/Checkin.tsv : (1.211808014070242, -0.21180801407024208)
+/scratch/hamiri/Research/geolife_star/r04/city/l001/id_t526064_l001_280/Checkin.tsv : (1.211808014070242, -0.21180801407024208)
+/scratch/hamiri/Research/geolife_star/r04/city/l001/id_t526064_l001_71/Checkin.tsv : (0.3761102756158626, 0.6238897243841375)
+/scratch/hamiri/Research/geolife_star/r04/city/l001/id_t526064_l001_204/Checkin.tsv : (0.8605450990350768, 0.1394549009649232)
+/scratch/hamiri/Research/geolife_star/r04/city/l001/id_t526064_l001_300/Checkin.tsv : (0.6371471729275311, 0.3628528270724689)
+/scratch/hamiri/Research/geolife_star/r04/city/l001/id_t526064_l001_0/Checkin.tsv : (1.8921793267714244, -0.8921793267714244)
+/scratch/hamiri/Research/geolife_star/r04/city/l001/id_t526064_l001_49/Checkin.tsv : (1.8921793267714244, -0.8921793267714244)
+/scratch/hamiri/Research/geolife_star/r04/city/l001/id_t526064_l001_91/Checkin.tsv : (1.8921793267714244, -0.8921793267714244)
+/scratch/hamiri/Research/geolife_star/r04/city/l001/id_t526064_l001_290/Checkin.tsv : (1.5864040027103536, -0.5864040027103536)
+/scratch/hamiri/Research/geolife_star/r04/city/l001/id_t526064_l001_219/Checkin.tsv : (2.358778323485698, -1.3587783234856978)
+/scratch/hamiri/Research/geolife_star/r04/city/l001/id_t526064_l001_15/Checkin.tsv : 0
+/scratch/hamiri/Research/geolife_star/r04/city/l001/id_t526064_l001_223/Checkin.tsv : (0.09846119779199261, 0.9015388022080074)
+/scratch/hamiri/Research/geolife_star/r04/city/l001/id_t526064_l001_290/Checkin.tsv : (1.5864040027103536, -0.5864040027103536)
+/scratch/hamiri/Research/geolife_star/r04/city/l001/id_t526064_l001_191/Checkin.tsv : (2.327571734975563, -1.327571734975563)
+/scratch/hamiri/Research/geolife_star/r04/city/l001/id_t526064_l001_204/Checkin.tsv : (0.8605450990350768, 0.1394549009649232)
+/scratch/hamiri/Research/geolife_star/r04/city/l001/id_t526064_l001_39/Checkin.tsv : 0
+/scratch/hamiri/Research/geolife_star/r04/city/l001/id_t526064_l001_303/Checkin.tsv : 0
+/scratch/hamiri/Research/geolife_star/r04/city/l001/id_t526064_l001_163/Checkin.tsv : 0
+/scratch/hamiri/Research/geolife_star/r04/city/l001/id_t526064_l001_152/Checkin.tsv : 0
+/scratch/hamiri/Research/geolife_star/r04/city/l001/id_t526064_l001_232/Checkin.tsv : 0
+/scratch/hamiri/Research/geolife_star/r04/city/l001/id_t526064_l001_240/Checkin.tsv : 0
+/scratch/hamiri/Research/geolife_star/r04/city/l001/id_t526064_l001_298/Checkin.tsv : 0
+/scratch/hamiri/Research/geolife_star/r04/city/l001/id_t526064_l001_242/Checkin.tsv : 0
+/scratch/hamiri/Research/geolife_star/r04/city/l001/id_t526064_l001_119/Checkin.tsv : 0
+/scratch/hamiri/Research/geolife_star/r04/city/l001/id_t526064_l001_201/Checkin.tsv : 0
+/scratch/hamiri/Research/geolife_star/r04/city/l001/id_t526064_l001_170/Checkin.tsv : 0
+/scratch/hamiri/Research/geolife_star/r04/city/l001/id_t526064_l001_191/Checkin.tsv : (2.327571734975563, -1.327571734975563)
+/scratch/hamiri/Research/geolife_star/r04/city/l001/id_t526064_l001_236/Checkin.tsv : (1.3611391709950809, -0.36113917099508086)
+/scratch/hamiri/Research/geolife_star/r04/city/l001/id_t526064_l001_192/Checkin.tsv : (1.2725391634569203, -0.2725391634569203)
+/scratch/hamiri/Research/geolife_star/r04/city/l001/id_t526064_l001_192/Checkin.tsv : (1.2725391634569203, -0.2725391634569203)
+/scratch/hamiri/Research/geolife_star/r04/city/l001/id_t526064_l001_254/Checkin.tsv : 0
+/scratch/hamiri/Research/geolife_star/r04/city/l001/id_t526064_l001_13/Checkin.tsv : (1.7989537479958984, -0.7989537479958984)
+/scratch/hamiri/Research/geolife_star/r04/city/l001/id_t526064_l001_127/Checkin.tsv : (1.7989537479958984, -0.7989537479958984)
+/scratch/hamiri/Research/geolife_star/r04/city/l001/id_t526064_l001_298/Checkin.tsv : (1.6097307577028899, -0.6097307577028899)
+/scratch/hamiri/Research/geolife_star/r04/city/l001/id_t526064_l001_218/Checkin.tsv : (1.1029415884840859, -0.10294158848408586)
+/scratch/hamiri/Research/geolife_star/r04/city/l001/id_t526064_l001_119/Checkin.tsv : (0.6153986831072843, 0.3846013168927157)
+/scratch/hamiri/Research/geolife_star/r04/city/l001/id_t526064_l001_186/Checkin.tsv : (1.0327134730481644, -0.03271347304816441)
+/scratch/hamiri/Research/geolife_star/r04/city/l001/id_t526064_l001_242/Checkin.tsv : (1.165075196942861, -0.165075196942861)
+/scratch/hamiri/Research/geolife_star/r04/city/l001/id_t526064_l001_312/Checkin.tsv : (0.9309147471504562, 0.06908525284954381)
+/scratch/hamiri/Research/geolife_star/r04/city/l001/id_t526064_l001_283/Checkin.tsv : (0.9908543387758999, 0.009145661224100099)
+/scratch/hamiri/Research/geolife_star/r04/city/l001/id_t526064_l001_307/Checkin.tsv : (1.074651825772052, -0.0746518257720521)
+/scratch/hamiri/Research/geolife_star/r04/city/l001/id_t526064_l001_259/Checkin.tsv : (2.0135660754113567, -1.0135660754113567)
+/scratch/hamiri/Research/geolife_star/r04/city/l001/id_t526064_l001_282/Checkin.tsv : (1.5080706458101651, -0.5080706458101651)
+/scratch/hamiri/Research/geolife_star/r04/city/l001/id_t526064_l001_238/Checkin.tsv : (1.0983435649414854, -0.09834356494148544)
+/scratch/hamiri/Research/geolife_star/r04/city/l001/id_t526064_l001_163/Checkin.tsv : (1.0123105032370696, -0.012310503237069614)
+/scratch/hamiri/Research/geolife_star/r04/city/l002/id_t526064_l002_271/Checkin.tsv : (2.9678813972745726, -1.9678813972745726)
+/scratch/hamiri/Research/geolife_star/r04/city/l001/id_t526064_l001_201/Checkin.tsv : (1.493432932158802, -0.493432932158802)
+/scratch/hamiri/Research/geolife_star/r04/city/l001/id_t526064_l001_291/Checkin.tsv : (1.2294057189477579, -0.22940571894775785)
+/scratch/hamiri/Research/geolife_star/r04/city/l001/id_t526064_l001_231/Checkin.tsv : (2.601459859503224, -1.601459859503224)
+/scratch/hamiri/Research/geolife_star/r04/city/l001/id_t526064_l001_247/Checkin.tsv : (0.876325966089847, 0.12367403391015297)
+/scratch/hamiri/Research/geolife_star/r04/city/l001/id_t526064_l001_170/Checkin.tsv : (1.564456775945817, -0.564456775945817)
+/scratch/hamiri/Research/geolife_star/r04/city/l001/id_t526064_l001_261/Checkin.tsv : (1.4411069656269362, -0.4411069656269362)
+/scratch/hamiri/Research/geolife_star/r04/city/l001/id_t526064_l001_164/Checkin.tsv : (1.278814790481964, -0.278814790481964)
+/scratch/hamiri/Research/geolife_star/r04/city/l001/id_t526064_l001_78/Checkin.tsv : (1.2569509936319103, -0.2569509936319103)
+/scratch/hamiri/Research/geolife_star/r04/city/l001/id_t526064_l001_232/Checkin.tsv : (2.2539235250550194, -1.2539235250550194)
+/scratch/hamiri/Research/geolife_star/r04/city/l002/id_t526064_l002_6/Checkin.tsv : (1.3896624136639673, -0.38966241366396726)
+/scratch/hamiri/Research/geolife_star/r04/city/l002/id_t526064_l002_123/Checkin.tsv : (1.3896624136639673, -0.38966241366396726)
+/scratch/hamiri/Research/geolife_star/r04/city/l002/id_t526064_l002_233/Checkin.tsv : (1.3896624136639673, -0.38966241366396726)
+/scratch/hamiri/Research/geolife_star/r04/city/l002/id_t526064_l002_28/Checkin.tsv : (1.3896624136639673, -0.38966241366396726)
+/scratch/hamiri/Research/geolife_star/r04/city/l002/id_t526064_l002_42/Checkin.tsv : (1.3896624136639673, -0.38966241366396726)
+/scratch/hamiri/Research/geolife_star/r04/city/l002/id_t526064_l002_61/Checkin.tsv : (1.3896624136639673, -0.38966241366396726)
+/scratch/hamiri/Research/geolife_star/r04/city/l002/id_t526064_l002_84/Checkin.tsv : (1.3896624136639673, -0.38966241366396726)
+/scratch/hamiri/Research/geolife_star/r04/city/l002/id_t526064_l002_70/Checkin.tsv : (1.3896624136639673, -0.38966241366396726)
+/scratch/hamiri/Research/geolife_star/r04/city/l002/id_t526064_l002_53/Checkin.tsv : (1.3896624136639673, -0.38966241366396726)
+/scratch/hamiri/Research/geolife_star/r04/city/l002/id_t526064_l002_7/Checkin.tsv : (1.3896624136639673, -0.38966241366396726)
+/scratch/hamiri/Research/geolife_star/r04/city/l002/id_t526064_l002_223/Checkin.tsv : (1.3896624136639673, -0.38966241366396726)
+/scratch/hamiri/Research/geolife_star/r04/city/l002/id_t526064_l002_237/Checkin.tsv : (1.3896624136639673, -0.38966241366396726)
+/scratch/hamiri/Research/geolife_star/r04/city/l002/id_t526064_l002_98/Checkin.tsv : (1.3896624136639673, -0.38966241366396726)
+/scratch/hamiri/Research/geolife_star/r04/city/l002/id_t526064_l002_72/Checkin.tsv : (1.3896624136639673, -0.38966241366396726)
+/scratch/hamiri/Research/geolife_star/r04/city/l002/id_t526064_l002_85/Checkin.tsv : (1.3896624136639673, -0.38966241366396726)
+/scratch/hamiri/Research/geolife_star/r04/city/l002/id_t526064_l002_146/Checkin.tsv : (1.3896624136639673, -0.38966241366396726)
+/scratch/hamiri/Research/geolife_star/r04/city/l002/id_t526064_l002_198/Checkin.tsv : (1.3896624136639673, -0.38966241366396726)
+/scratch/hamiri/Research/geolife_star/r04/city/l002/id_t526064_l002_199/Checkin.tsv : (1.3896624136639673, -0.38966241366396726)
+/scratch/hamiri/Research/geolife_star/r04/city/l002/id_t526064_l002_104/Checkin.tsv : (1.3896624136639673, -0.38966241366396726)
+/scratch/hamiri/Research/geolife_star/r04/city/l002/id_t526064_l002_36/Checkin.tsv : (1.3896624136639673, -0.38966241366396726)
+/scratch/hamiri/Research/geolife_star/r04/city/l002/id_t526064_l002_190/Checkin.tsv : (1.3896624136639673, -0.38966241366396726)
+/scratch/hamiri/Research/geolife_star/r04/city/l002/id_t526064_l002_76/Checkin.tsv : (1.3896624136639673, -0.38966241366396726)
+/scratch/hamiri/Research/geolife_star/r04/city/l002/id_t526064_l002_19/Checkin.tsv : (1.3896624136639673, -0.38966241366396726)
+/scratch/hamiri/Research/geolife_star/r04/city/l002/id_t526064_l002_215/Checkin.tsv : (1.3896624136639673, -0.38966241366396726)
+/scratch/hamiri/Research/geolife_star/r04/city/l001/id_t526064_l001_194/Checkin.tsv : (3.048000694774152, -2.048000694774152)
+/scratch/hamiri/Research/geolife_star/r04/city/l002/id_t526064_l002_86/Checkin.tsv : (1.3896624136639673, -0.38966241366396726)
+/scratch/hamiri/Research/geolife_star/r04/city/l001/id_t526064_l001_53/Checkin.tsv : (1.8662635134769017, -0.8662635134769017)
+/scratch/hamiri/Research/geolife_star/r04/city/l002/id_t526064_l002_311/Checkin.tsv : (1.1439081236944386, -0.14390812369443862)
+/scratch/hamiri/Research/geolife_star/r04/city/l002/id_t526064_l002_297/Checkin.tsv : (0.8200264259625505, 0.1799735740374495)
+/scratch/hamiri/Research/geolife_star/r04/city/l002/id_t526064_l002_304/Checkin.tsv : (0.7301679334600955, 0.26983206653990455)
+/scratch/hamiri/Research/geolife_star/r04/city/l002/id_t526064_l002_259/Checkin.tsv : (0.9623387170690162, 0.03766128293098381)
+/scratch/hamiri/Research/geolife_star/r04/city/l002/id_t526064_l002_249/Checkin.tsv : (1.3896624136639673, -0.38966241366396726)
+/scratch/hamiri/Research/geolife_star/r04/city/l002/id_t526064_l002_33/Checkin.tsv : (1.3896624136639673, -0.38966241366396726)
+/scratch/hamiri/Research/geolife_star/r04/city/l002/id_t526064_l002_65/Checkin.tsv : (1.3896624136639673, -0.38966241366396726)
+/scratch/hamiri/Research/geolife_star/r04/city/l002/id_t526064_l002_4/Checkin.tsv : (1.3896624136639673, -0.38966241366396726)
+/scratch/hamiri/Research/geolife_star/r04/city/l002/id_t526064_l002_9/Checkin.tsv : (1.3896624136639673, -0.38966241366396726)
+/scratch/hamiri/Research/geolife_star/r04/city/l002/id_t526064_l002_45/Checkin.tsv : (1.3896624136639673, -0.38966241366396726)
+/scratch/hamiri/Research/geolife_star/r04/city/l002/id_t526064_l002_228/Checkin.tsv : (1.3896624136639673, -0.38966241366396726)
+/scratch/hamiri/Research/geolife_star/r04/city/l002/id_t526064_l002_116/Checkin.tsv : (1.3896624136639673, -0.38966241366396726)
+/scratch/hamiri/Research/geolife_star/r04/city/l002/id_t526064_l002_31/Checkin.tsv : (1.3896624136639673, -0.38966241366396726)
+/scratch/hamiri/Research/geolife_star/r04/city/l002/id_t526064_l002_169/Checkin.tsv : (1.3896624136639673, -0.38966241366396726)
+/scratch/hamiri/Research/geolife_star/r04/city/l001/id_t526064_l001_268/Checkin.tsv : (1.1758486814384908, -0.17584868143849075)
+/scratch/hamiri/Research/geolife_star/r04/city/l002/id_t526064_l002_100/Checkin.tsv : (1.3896624136639673, -0.38966241366396726)
+/scratch/hamiri/Research/geolife_star/r04/city/l002/id_t526064_l002_241/Checkin.tsv : (1.3896624136639673, -0.38966241366396726)
+/scratch/hamiri/Research/geolife_star/r04/city/l002/id_t526064_l002_173/Checkin.tsv : (1.3896624136639673, -0.38966241366396726)
+/scratch/hamiri/Research/geolife_star/r04/city/l002/id_t526064_l002_68/Checkin.tsv : (1.3896624136639673, -0.38966241366396726)
+/scratch/hamiri/Research/geolife_star/r04/city/l002/id_t526064_l002_243/Checkin.tsv : (1.3896624136639673, -0.38966241366396726)
+/scratch/hamiri/Research/geolife_star/r04/city/l002/id_t526064_l002_183/Checkin.tsv : (1.3896624136639673, -0.38966241366396726)
+/scratch/hamiri/Research/geolife_star/r04/city/l002/id_t526064_l002_124/Checkin.tsv : (1.3896624136639673, -0.38966241366396726)
+/scratch/hamiri/Research/geolife_star/r04/city/l002/id_t526064_l002_20/Checkin.tsv : (1.3896624136639673, -0.38966241366396726)
+/scratch/hamiri/Research/geolife_star/r04/city/l002/id_t526064_l002_80/Checkin.tsv : (1.3896624136639673, -0.38966241366396726)
+/scratch/hamiri/Research/geolife_star/r04/city/l002/id_t526064_l002_0/Checkin.tsv : (1.3896624136639673, -0.38966241366396726)
+/scratch/hamiri/Research/geolife_star/r04/city/l002/id_t526064_l002_151/Checkin.tsv : (1.3896624136639673, -0.38966241366396726)
+/scratch/hamiri/Research/geolife_star/r04/city/l002/id_t526064_l002_32/Checkin.tsv : (1.3896624136639673, -0.38966241366396726)
+/scratch/hamiri/Research/geolife_star/r04/city/l002/id_t526064_l002_290/Checkin.tsv : (0.3231550323212305, 0.6768449676787696)
+/scratch/hamiri/Research/geolife_star/r04/city/l001/id_t526064_l001_303/Checkin.tsv : (2.1140514407717745, -1.1140514407717745)
+/scratch/hamiri/Research/geolife_star/r04/city/l002/id_t526064_l002_184/Checkin.tsv : (1.3896624136639673, -0.38966241366396726)
+/scratch/hamiri/Research/geolife_star/r04/city/l002/id_t526064_l002_222/Checkin.tsv : (1.3896624136639673, -0.38966241366396726)
+/scratch/hamiri/Research/geolife_star/r04/city/l002/id_t526064_l002_290/Checkin.tsv : (0.3231550323212305, 0.6768449676787696)
+/scratch/hamiri/Research/geolife_star/r04/city/l002/id_t526064_l002_316/Checkin.tsv : 0
+/scratch/hamiri/Research/geolife_star/r04/city/l002/id_t526064_l002_123/Checkin.tsv : (1.3896624136639673, -0.38966241366396726)
+/scratch/hamiri/Research/geolife_star/r04/city/l002/id_t526064_l002_241/Checkin.tsv : (1.3896624136639673, -0.38966241366396726)
+/scratch/hamiri/Research/geolife_star/r04/city/l002/id_t526064_l002_68/Checkin.tsv : (1.3896624136639673, -0.38966241366396726)
+/scratch/hamiri/Research/geolife_star/r04/city/l002/id_t526064_l002_237/Checkin.tsv : (1.3896624136639673, -0.38966241366396726)
+/scratch/hamiri/Research/geolife_star/r04/city/l002/id_t526064_l002_198/Checkin.tsv : (1.3896624136639673, -0.38966241366396726)
+/scratch/hamiri/Research/geolife_star/r04/city/l002/id_t526064_l002_183/Checkin.tsv : (1.3896624136639673, -0.38966241366396726)
+/scratch/hamiri/Research/geolife_star/r04/city/l002/id_t526064_l002_297/Checkin.tsv : (0.8200264259625505, 0.1799735740374495)
+/scratch/hamiri/Research/geolife_star/r04/city/l002/id_t526064_l002_28/Checkin.tsv : (1.3896624136639673, -0.38966241366396726)
+/scratch/hamiri/Research/geolife_star/r04/city/l002/id_t526064_l002_146/Checkin.tsv : (1.3896624136639673, -0.38966241366396726)
+/scratch/hamiri/Research/geolife_star/r04/city/l002/id_t526064_l002_45/Checkin.tsv : (1.3896624136639673, -0.38966241366396726)
+/scratch/hamiri/Research/geolife_star/r04/city/l002/id_t526064_l002_84/Checkin.tsv : (1.3896624136639673, -0.38966241366396726)
+/scratch/hamiri/Research/geolife_star/r04/city/l002/id_t526064_l002_215/Checkin.tsv : (1.3896624136639673, -0.38966241366396726)
+/scratch/hamiri/Research/geolife_star/r04/city/l002/id_t526064_l002_42/Checkin.tsv : (1.3896624136639673, -0.38966241366396726)
+/scratch/hamiri/Research/geolife_star/r04/city/l002/id_t526064_l002_304/Checkin.tsv : (0.7301679334600955, 0.26983206653990455)
+/scratch/hamiri/Research/geolife_star/r04/city/l002/id_t526064_l002_53/Checkin.tsv : (1.3896624136639673, -0.38966241366396726)
+/scratch/hamiri/Research/geolife_star/r04/city/l002/id_t526064_l002_295/Checkin.tsv : 0
+/scratch/hamiri/Research/geolife_star/r04/city/l002/id_t526064_l002_36/Checkin.tsv : (1.3896624136639673, -0.38966241366396726)
+/scratch/hamiri/Research/geolife_star/r04/city/l002/id_t526064_l002_169/Checkin.tsv : (1.3896624136639673, -0.38966241366396726)
+/scratch/hamiri/Research/geolife_star/r04/city/l002/id_t526064_l002_32/Checkin.tsv : (1.3896624136639673, -0.38966241366396726)
+/scratch/hamiri/Research/geolife_star/r04/city/l002/id_t526064_l002_61/Checkin.tsv : (1.3896624136639673, -0.38966241366396726)
+/scratch/hamiri/Research/geolife_star/r04/city/l002/id_t526064_l002_76/Checkin.tsv : (1.3896624136639673, -0.38966241366396726)
+/scratch/hamiri/Research/geolife_star/r04/city/l002/id_t526064_l002_278/Checkin.tsv : (0.5676876893444328, 0.4323123106555672)
+/scratch/hamiri/Research/geolife_star/r04/city/l002/id_t526064_l002_278/Checkin.tsv : (0.5676876893444328, 0.4323123106555672)
+/scratch/hamiri/Research/geolife_star/r04/city/l002/id_t526064_l002_272/Checkin.tsv : 0
+/scratch/hamiri/Research/geolife_star/r04/city/l002/id_t526064_l002_98/Checkin.tsv : (1.3896624136639673, -0.38966241366396726)
+/scratch/hamiri/Research/geolife_star/r04/city/l002/id_t526064_l002_319/Checkin.tsv : 0
+/scratch/hamiri/Research/geolife_star/r04/city/l002/id_t526064_l002_311/Checkin.tsv : (1.1439081236944386, -0.14390812369443862)
+/scratch/hamiri/Research/geolife_star/r04/city/l002/id_t526064_l002_6/Checkin.tsv : (1.3896624136639673, -0.38966241366396726)
+/scratch/hamiri/Research/geolife_star/r04/city/l002/id_t526064_l002_228/Checkin.tsv : (1.3896624136639673, -0.38966241366396726)
+/scratch/hamiri/Research/geolife_star/r04/city/l002/id_t526064_l002_7/Checkin.tsv : (1.3896624136639673, -0.38966241366396726)
+/scratch/hamiri/Research/geolife_star/r04/city/l002/id_t526064_l002_199/Checkin.tsv : (1.3896624136639673, -0.38966241366396726)
+/scratch/hamiri/Research/geolife_star/r04/city/l002/id_t526064_l002_70/Checkin.tsv : (1.3896624136639673, -0.38966241366396726)
+/scratch/hamiri/Research/geolife_star/r04/city/l002/id_t526064_l002_243/Checkin.tsv : (1.3896624136639673, -0.38966241366396726)
+/scratch/hamiri/Research/geolife_star/r04/city/l002/id_t526064_l002_31/Checkin.tsv : (1.3896624136639673, -0.38966241366396726)
+/scratch/hamiri/Research/geolife_star/r04/city/l002/id_t526064_l002_100/Checkin.tsv : (1.3896624136639673, -0.38966241366396726)
+/scratch/hamiri/Research/geolife_star/r04/city/l002/id_t526064_l002_222/Checkin.tsv : (1.3896624136639673, -0.38966241366396726)
+/scratch/hamiri/Research/geolife_star/r04/city/l002/id_t526064_l002_233/Checkin.tsv : (1.3896624136639673, -0.38966241366396726)
+/scratch/hamiri/Research/geolife_star/r04/city/l002/id_t526064_l002_9/Checkin.tsv : (1.3896624136639673, -0.38966241366396726)
+/scratch/hamiri/Research/geolife_star/r04/city/l002/id_t526064_l002_65/Checkin.tsv : (1.3896624136639673, -0.38966241366396726)
+/scratch/hamiri/Research/geolife_star/r04/city/l002/id_t526064_l002_4/Checkin.tsv : (1.3896624136639673, -0.38966241366396726)
+/scratch/hamiri/Research/geolife_star/r04/city/l002/id_t526064_l002_315/Checkin.tsv : 0
+/scratch/hamiri/Research/geolife_star/r04/city/l002/id_t526064_l002_19/Checkin.tsv : (1.3896624136639673, -0.38966241366396726)
+/scratch/hamiri/Research/geolife_star/r04/city/l002/id_t526064_l002_124/Checkin.tsv : (1.3896624136639673, -0.38966241366396726)
+/scratch/hamiri/Research/geolife_star/r04/city/l002/id_t526064_l002_268/Checkin.tsv : 0
+/scratch/hamiri/Research/geolife_star/r04/city/l002/id_t526064_l002_80/Checkin.tsv : (1.3896624136639673, -0.38966241366396726)
+/scratch/hamiri/Research/geolife_star/r04/city/l002/id_t526064_l002_72/Checkin.tsv : (1.3896624136639673, -0.38966241366396726)
+/scratch/hamiri/Research/geolife_star/r04/city/l002/id_t526064_l002_249/Checkin.tsv : (1.3896624136639673, -0.38966241366396726)
+/scratch/hamiri/Research/geolife_star/r04/city/l002/id_t526064_l002_85/Checkin.tsv : (1.3896624136639673, -0.38966241366396726)
+/scratch/hamiri/Research/geolife_star/r04/city/l002/id_t526064_l002_184/Checkin.tsv : (1.3896624136639673, -0.38966241366396726)
+/scratch/hamiri/Research/geolife_star/r04/city/l002/id_t526064_l002_271/Checkin.tsv : (2.9678813972745726, -1.9678813972745726)
+/scratch/hamiri/Research/geolife_star/r04/city/l002/id_t526064_l002_151/Checkin.tsv : (1.3896624136639673, -0.38966241366396726)
+/scratch/hamiri/Research/geolife_star/r04/city/l002/id_t526064_l002_259/Checkin.tsv : (0.9623387170690162, 0.03766128293098381)
+/scratch/hamiri/Research/geolife_star/r04/city/l002/id_t526064_l002_86/Checkin.tsv : (1.3896624136639673, -0.38966241366396726)
+/scratch/hamiri/Research/geolife_star/r04/city/l002/id_t526064_l002_288/Checkin.tsv : 0
+/scratch/hamiri/Research/geolife_star/r04/city/l002/id_t526064_l002_0/Checkin.tsv : (1.3896624136639673, -0.38966241366396726)
+/scratch/hamiri/Research/geolife_star/r04/city/l002/id_t526064_l002_104/Checkin.tsv : (1.3896624136639673, -0.38966241366396726)
+/scratch/hamiri/Research/geolife_star/r04/city/l002/id_t526064_l002_116/Checkin.tsv : (1.3896624136639673, -0.38966241366396726)
+/scratch/hamiri/Research/geolife_star/r04/city/l002/id_t526064_l002_20/Checkin.tsv : (1.3896624136639673, -0.38966241366396726)
+/scratch/hamiri/Research/geolife_star/r04/city/l002/id_t526064_l002_33/Checkin.tsv : (1.3896624136639673, -0.38966241366396726)
+/scratch/hamiri/Research/geolife_star/r04/city/l002/id_t526064_l002_312/Checkin.tsv : 0
+/scratch/hamiri/Research/geolife_star/r04/city/l002/id_t526064_l002_223/Checkin.tsv : (1.3896624136639673, -0.38966241366396726)
+/scratch/hamiri/Research/geolife_star/r04/city/l002/id_t526064_l002_173/Checkin.tsv : (1.3896624136639673, -0.38966241366396726)
+/scratch/hamiri/Research/geolife_star/r04/city/l002/id_t526064_l002_190/Checkin.tsv : (1.3896624136639673, -0.38966241366396726)
+/scratch/hamiri/Research/geolife_star/r04/city/l002/id_t526064_l002_290/Checkin.tsv : (0.3231550323212305, 0.6768449676787696)
+/scratch/hamiri/Research/geolife_star/r04/city/l001/id_t526064_l001_152/Checkin.tsv : (1.3584833154385474, -0.3584833154385474)
+/scratch/hamiri/Research/geolife_star/r04/city/l001/id_t526064_l001_9/Checkin.tsv : (0.828040424482304, 0.17195957551769603)
+/scratch/hamiri/Research/geolife_star/r04/city/l002/id_t526064_l002_295/Checkin.tsv : (2.1992154912315836, -1.1992154912315836)
+/scratch/hamiri/Research/geolife_star/r04/city/l002/id_t526064_l002_316/Checkin.tsv : (0.7647372328981913, 0.2352627671018087)
+/scratch/hamiri/Research/geolife_star/r04/city/l001/id_t526064_l001_230/Checkin.tsv : (2.4395943381012892, -1.4395943381012892)
+/scratch/hamiri/Research/geolife_star/r04/city/l002/id_t526064_l002_272/Checkin.tsv : (1.5563683069836494, -0.5563683069836494)
+/scratch/hamiri/Research/geolife_star/r04/city/l002/id_t526064_l002_288/Checkin.tsv : (2.2985745846069716, -1.2985745846069716)
+/scratch/hamiri/Research/geolife_star/r04/city/l003/id_t526064_l003_306/Checkin.tsv : (1.7796768688957492, -0.7796768688957492)
+/scratch/hamiri/Research/geolife_star/r04/city/l003/id_t526064_l003_269/Checkin.tsv : (1.6449475825439555, -0.6449475825439555)
+/scratch/hamiri/Research/geolife_star/r04/city/l003/id_t526064_l003_272/Checkin.tsv : (0.777512248108398, 0.22248775189160197)
+/scratch/hamiri/Research/geolife_star/r04/city/l003/id_t526064_l003_264/Checkin.tsv : (0.6872939825988456, 0.31270601740115445)
+/scratch/hamiri/Research/geolife_star/r04/city/l003/id_t526064_l003_300/Checkin.tsv : (0.4609665074878325, 0.5390334925121675)
+/scratch/hamiri/Research/geolife_star/r04/city/l003/id_t526064_l003_261/Checkin.tsv : (1.3278601882534726, -0.32786018825347263)
+/scratch/hamiri/Research/geolife_star/r04/city/l003/id_t526064_l003_261/Checkin.tsv : (1.3278601882534726, -0.32786018825347263)
+/scratch/hamiri/Research/geolife_star/r04/city/l003/id_t526064_l003_126/Checkin.tsv : 0
+/scratch/hamiri/Research/geolife_star/r04/city/l003/id_t526064_l003_3/Checkin.tsv : 0
+/scratch/hamiri/Research/geolife_star/r04/city/l003/id_t526064_l003_316/Checkin.tsv : 0
+/scratch/hamiri/Research/geolife_star/r04/city/l003/id_t526064_l003_16/Checkin.tsv : 0
+/scratch/hamiri/Research/geolife_star/r04/city/l003/id_t526064_l003_215/Checkin.tsv : 0
+/scratch/hamiri/Research/geolife_star/r04/city/l003/id_t526064_l003_208/Checkin.tsv : 0
+/scratch/hamiri/Research/geolife_star/r04/city/l003/id_t526064_l003_14/Checkin.tsv : 0
+/scratch/hamiri/Research/geolife_star/r04/city/l003/id_t526064_l003_96/Checkin.tsv : 0
+/scratch/hamiri/Research/geolife_star/r04/city/l003/id_t526064_l003_241/Checkin.tsv : 0
+/scratch/hamiri/Research/geolife_star/r04/city/l003/id_t526064_l003_281/Checkin.tsv : 0
+/scratch/hamiri/Research/geolife_star/r04/city/l003/id_t526064_l003_73/Checkin.tsv : 0
+/scratch/hamiri/Research/geolife_star/r04/city/l003/id_t526064_l003_272/Checkin.tsv : (0.777512248108398, 0.22248775189160197)
+/scratch/hamiri/Research/geolife_star/r04/city/l003/id_t526064_l003_135/Checkin.tsv : 0
+/scratch/hamiri/Research/geolife_star/r04/city/l003/id_t526064_l003_52/Checkin.tsv : 0
+/scratch/hamiri/Research/geolife_star/r04/city/l003/id_t526064_l003_229/Checkin.tsv : 0
+/scratch/hamiri/Research/geolife_star/r04/city/l003/id_t526064_l003_250/Checkin.tsv : 0
+/scratch/hamiri/Research/geolife_star/r04/city/l003/id_t526064_l003_89/Checkin.tsv : 0
+/scratch/hamiri/Research/geolife_star/r04/city/l003/id_t526064_l003_41/Checkin.tsv : 0
+/scratch/hamiri/Research/geolife_star/r04/city/l003/id_t526064_l003_300/Checkin.tsv : (0.4609665074878325, 0.5390334925121675)
+/scratch/hamiri/Research/geolife_star/r04/city/l003/id_t526064_l003_43/Checkin.tsv : 0
+/scratch/hamiri/Research/geolife_star/r04/city/l003/id_t526064_l003_190/Checkin.tsv : 0
+/scratch/hamiri/Research/geolife_star/r04/city/l003/id_t526064_l003_231/Checkin.tsv : 0
+/scratch/hamiri/Research/geolife_star/r04/city/l003/id_t526064_l003_168/Checkin.tsv : 0
+/scratch/hamiri/Research/geolife_star/r04/city/l003/id_t526064_l003_159/Checkin.tsv : 0
+/scratch/hamiri/Research/geolife_star/r04/city/l003/id_t526064_l003_187/Checkin.tsv : 0
+/scratch/hamiri/Research/geolife_star/r04/city/l003/id_t526064_l003_7/Checkin.tsv : 0
+/scratch/hamiri/Research/geolife_star/r04/city/l003/id_t526064_l003_259/Checkin.tsv : 0
+/scratch/hamiri/Research/geolife_star/r04/city/l003/id_t526064_l003_306/Checkin.tsv : (1.7796768688957492, -0.7796768688957492)
+/scratch/hamiri/Research/geolife_star/r04/city/l003/id_t526064_l003_8/Checkin.tsv : 0
+/scratch/hamiri/Research/geolife_star/r04/city/l003/id_t526064_l003_61/Checkin.tsv : 0
+/scratch/hamiri/Research/geolife_star/r04/city/l003/id_t526064_l003_47/Checkin.tsv : 0
+/scratch/hamiri/Research/geolife_star/r04/city/l003/id_t526064_l003_149/Checkin.tsv : 0
+/scratch/hamiri/Research/geolife_star/r04/city/l003/id_t526064_l003_80/Checkin.tsv : 0
+/scratch/hamiri/Research/geolife_star/r04/city/l003/id_t526064_l003_216/Checkin.tsv : 0
+/scratch/hamiri/Research/geolife_star/r04/city/l003/id_t526064_l003_269/Checkin.tsv : (1.6449475825439555, -0.6449475825439555)
+/scratch/hamiri/Research/geolife_star/r04/city/l003/id_t526064_l003_74/Checkin.tsv : 0
+/scratch/hamiri/Research/geolife_star/r04/city/l003/id_t526064_l003_100/Checkin.tsv : 0
+/scratch/hamiri/Research/geolife_star/r04/city/l003/id_t526064_l003_182/Checkin.tsv : 0
+/scratch/hamiri/Research/geolife_star/r04/city/l003/id_t526064_l003_242/Checkin.tsv : 0
+/scratch/hamiri/Research/geolife_star/r04/city/l003/id_t526064_l003_171/Checkin.tsv : 0
+/scratch/hamiri/Research/geolife_star/r04/city/l003/id_t526064_l003_134/Checkin.tsv : 0
+/scratch/hamiri/Research/geolife_star/r04/city/l003/id_t526064_l003_29/Checkin.tsv : 0
+/scratch/hamiri/Research/geolife_star/r04/city/l003/id_t526064_l003_303/Checkin.tsv : 0
+/scratch/hamiri/Research/geolife_star/r04/city/l003/id_t526064_l003_212/Checkin.tsv : 0
+/scratch/hamiri/Research/geolife_star/r04/city/l003/id_t526064_l003_221/Checkin.tsv : 0
+/scratch/hamiri/Research/geolife_star/r04/city/l003/id_t526064_l003_113/Checkin.tsv : 0
+/scratch/hamiri/Research/geolife_star/r04/city/l003/id_t526064_l003_136/Checkin.tsv : 0
+/scratch/hamiri/Research/geolife_star/r04/city/l003/id_t526064_l003_200/Checkin.tsv : 0
+/scratch/hamiri/Research/geolife_star/r04/city/l003/id_t526064_l003_22/Checkin.tsv : 0
+/scratch/hamiri/Research/geolife_star/r04/city/l003/id_t526064_l003_271/Checkin.tsv : 0
+/scratch/hamiri/Research/geolife_star/r04/city/l003/id_t526064_l003_77/Checkin.tsv : 0
+/scratch/hamiri/Research/geolife_star/r04/city/l003/id_t526064_l003_264/Checkin.tsv : (0.6872939825988456, 0.31270601740115445)
+/scratch/hamiri/Research/geolife_star/r04/city/l003/id_t526064_l003_151/Checkin.tsv : 0
+/scratch/hamiri/Research/geolife_star/r04/city/l003/id_t526064_l003_12/Checkin.tsv : 0
+/scratch/hamiri/Research/geolife_star/r04/city/l003/id_t526064_l003_106/Checkin.tsv : 0
+/scratch/hamiri/Research/geolife_star/r04/city/l003/id_t526064_l003_239/Checkin.tsv : 0
+/scratch/hamiri/Research/geolife_star/r04/city/l003/id_t526064_l003_293/Checkin.tsv : 0
+/scratch/hamiri/Research/geolife_star/r04/city/l003/id_t526064_l003_235/Checkin.tsv : 0
+/scratch/hamiri/Research/geolife_star/r04/city/l003/id_t526064_l003_133/Checkin.tsv : 0
+/scratch/hamiri/Research/geolife_star/r04/city/l003/id_t526064_l003_201/Checkin.tsv : 0
+/scratch/hamiri/Research/geolife_star/r04/city/l003/id_t526064_l003_60/Checkin.tsv : 0
+/scratch/hamiri/Research/geolife_star/r04/city/l003/id_t526064_l003_283/Checkin.tsv : 0
+/scratch/hamiri/Research/geolife_star/r04/city/l003/id_t526064_l003_86/Checkin.tsv : 0
+/scratch/hamiri/Research/geolife_star/r04/city/l003/id_t526064_l003_261/Checkin.tsv : (1.3278601882534726, -0.32786018825347263)
+/scratch/hamiri/Research/geolife_star/r04/city/l002/id_t526064_l002_268/Checkin.tsv : (1.290371074206531, -0.2903710742065311)
+/scratch/hamiri/Research/geolife_star/r04/city/l002/id_t526064_l002_315/Checkin.tsv : (1.0230975215772897, -0.023097521577289726)
+/scratch/hamiri/Research/geolife_star/r04/city/l003/id_t526064_l003_283/Checkin.tsv : (0.6749147977906423, 0.32508520220935766)
+/scratch/hamiri/Research/geolife_star/r04/city/l002/id_t526064_l002_319/Checkin.tsv : (0.967503179924603, 0.032496820075397004)
+/scratch/hamiri/Research/geolife_star/r04/city/l001/id_t526064_l001_248/Checkin.tsv : (0.7531641892627675, 0.24683581073723249)
+/scratch/hamiri/Research/geolife_star/r04/city/l004/id_t526064_l004_295/Checkin.tsv : (0.1879552314647263, 0.8120447685352736)
+/scratch/hamiri/Research/geolife_star/r04/city/l004/id_t526064_l004_275/Checkin.tsv : (0.12954613261049333, 0.8704538673895067)
+/scratch/hamiri/Research/geolife_star/r04/city/l003/id_t526064_l003_293/Checkin.tsv : (1.588906876801504, -0.588906876801504)
+/scratch/hamiri/Research/geolife_star/r04/city/l003/id_t526064_l003_316/Checkin.tsv : (1.4426649113553522, -0.44266491135535224)
+/scratch/hamiri/Research/geolife_star/r04/city/l001/id_t526064_l001_254/Checkin.tsv : (2.5403196267982446, -1.5403196267982446)
+/scratch/hamiri/Research/geolife_star/r04/city/l004/id_t526064_l004_302/Checkin.tsv : (1.170213305549098, -0.17021330554909797)
+/scratch/hamiri/Research/geolife_star/r04/city/l004/id_t526064_l004_291/Checkin.tsv : (1.7099539573333862, -0.7099539573333862)
+/scratch/hamiri/Research/geolife_star/r04/city/l002/id_t526064_l002_312/Checkin.tsv : (1.2474083536135379, -0.24740835361353786)
+/scratch/hamiri/Research/geolife_star/r04/city/l004/id_t526064_l004_314/Checkin.tsv : (1.036216251721741, -0.03621625172174103)
+/scratch/hamiri/Research/geolife_star/r04/city/l001/id_t526064_l001_240/Checkin.tsv : (2.052393899958263, -1.052393899958263)
+/scratch/hamiri/Research/geolife_star/r04/city/l003/id_t526064_l003_303/Checkin.tsv : (0.9649297704737995, 0.035070229526200536)
+/scratch/hamiri/Research/geolife_star/r04/city/l004/id_t526064_l004_308/Checkin.tsv : (1.1422768055215198, -0.14227680552151978)
+/scratch/hamiri/Research/geolife_star/r04/city/l004/id_t526064_l004_278/Checkin.tsv : (1.5532830871854766, -0.5532830871854766)
+/scratch/hamiri/Research/geolife_star/r04/city/l003/id_t526064_l003_281/Checkin.tsv : (0.7160978130067264, 0.28390218699327363)
+/scratch/hamiri/Research/geolife_star/r04/city/l004/id_t526064_l004_304/Checkin.tsv : (0.6977593704140569, 0.3022406295859431)
+/scratch/hamiri/Research/geolife_star/r04/city/l001/id_t526064_l001_275/Checkin.tsv : (2.030123451036149, -1.030123451036149)
+/scratch/hamiri/Research/geolife_star/r04/city/l001/id_t526064_l001_319/Checkin.tsv : (1.2156127194206119, -0.2156127194206119)
+/scratch/hamiri/Research/geolife_star/r04/city/l001/id_t526064_l001_317/Checkin.tsv : (1.4003552379276722, -0.40035523792767225)
+/scratch/hamiri/Research/geolife_star/r04/city/l003/id_t526064_l003_14/Checkin.tsv : (0.7942857667152191, 0.2057142332847809)
+/scratch/hamiri/Research/geolife_star/r04/city/l003/id_t526064_l003_12/Checkin.tsv : (0.7942857667152191, 0.2057142332847809)
+/scratch/hamiri/Research/geolife_star/r04/city/l003/id_t526064_l003_241/Checkin.tsv : (0.7942857667152191, 0.2057142332847809)
+/scratch/hamiri/Research/geolife_star/r04/city/l003/id_t526064_l003_208/Checkin.tsv : (0.7942857667152191, 0.2057142332847809)
+/scratch/hamiri/Research/geolife_star/r04/city/l003/id_t526064_l003_242/Checkin.tsv : (0.7942857667152191, 0.2057142332847809)
+/scratch/hamiri/Research/geolife_star/r04/city/l003/id_t526064_l003_126/Checkin.tsv : (0.7942857667152191, 0.2057142332847809)
+/scratch/hamiri/Research/geolife_star/r04/city/l003/id_t526064_l003_73/Checkin.tsv : (0.7942857667152191, 0.2057142332847809)
+/scratch/hamiri/Research/geolife_star/r04/city/l003/id_t526064_l003_22/Checkin.tsv : (0.7942857667152191, 0.2057142332847809)
+/scratch/hamiri/Research/geolife_star/r04/city/l003/id_t526064_l003_200/Checkin.tsv : (0.7942857667152191, 0.2057142332847809)
+/scratch/hamiri/Research/geolife_star/r04/city/l003/id_t526064_l003_190/Checkin.tsv : (0.7942857667152191, 0.2057142332847809)
+/scratch/hamiri/Research/geolife_star/r04/city/l003/id_t526064_l003_47/Checkin.tsv : (0.7942857667152191, 0.2057142332847809)
+/scratch/hamiri/Research/geolife_star/r04/city/l003/id_t526064_l003_7/Checkin.tsv : (0.7942857667152191, 0.2057142332847809)
+/scratch/hamiri/Research/geolife_star/r04/city/l003/id_t526064_l003_159/Checkin.tsv : (0.7942857667152191, 0.2057142332847809)
+/scratch/hamiri/Research/geolife_star/r04/city/l003/id_t526064_l003_231/Checkin.tsv : (0.7942857667152191, 0.2057142332847809)
+/scratch/hamiri/Research/geolife_star/r04/city/l003/id_t526064_l003_106/Checkin.tsv : (0.7942857667152191, 0.2057142332847809)
+/scratch/hamiri/Research/geolife_star/r04/city/l003/id_t526064_l003_239/Checkin.tsv : (0.7942857667152191, 0.2057142332847809)
+/scratch/hamiri/Research/geolife_star/r04/city/l003/id_t526064_l003_212/Checkin.tsv : (0.7942857667152191, 0.2057142332847809)
+/scratch/hamiri/Research/geolife_star/r04/city/l003/id_t526064_l003_16/Checkin.tsv : (0.7942857667152191, 0.2057142332847809)
+/scratch/hamiri/Research/geolife_star/r04/city/l003/id_t526064_l003_168/Checkin.tsv : (0.7942857667152191, 0.2057142332847809)
+/scratch/hamiri/Research/geolife_star/r04/city/l003/id_t526064_l003_100/Checkin.tsv : (0.7942857667152191, 0.2057142332847809)
+/scratch/hamiri/Research/geolife_star/r04/city/l003/id_t526064_l003_43/Checkin.tsv : (0.7942857667152191, 0.2057142332847809)
+/scratch/hamiri/Research/geolife_star/r04/city/l003/id_t526064_l003_3/Checkin.tsv : (0.7942857667152191, 0.2057142332847809)
+/scratch/hamiri/Research/geolife_star/r04/city/l003/id_t526064_l003_133/Checkin.tsv : (0.7942857667152191, 0.2057142332847809)
+/scratch/hamiri/Research/geolife_star/r04/city/l003/id_t526064_l003_86/Checkin.tsv : (0.7942857667152191, 0.2057142332847809)
+/scratch/hamiri/Research/geolife_star/r04/city/l003/id_t526064_l003_8/Checkin.tsv : (0.7942857667152191, 0.2057142332847809)
+/scratch/hamiri/Research/geolife_star/r04/city/l003/id_t526064_l003_61/Checkin.tsv : (0.7942857667152191, 0.2057142332847809)
+/scratch/hamiri/Research/geolife_star/r04/city/l003/id_t526064_l003_135/Checkin.tsv : (0.7942857667152191, 0.2057142332847809)
+/scratch/hamiri/Research/geolife_star/r04/city/l003/id_t526064_l003_136/Checkin.tsv : (0.7942857667152191, 0.2057142332847809)
+/scratch/hamiri/Research/geolife_star/r04/city/l003/id_t526064_l003_89/Checkin.tsv : (0.7942857667152191, 0.2057142332847809)
+/scratch/hamiri/Research/geolife_star/r04/city/l003/id_t526064_l003_182/Checkin.tsv : (0.7942857667152191, 0.2057142332847809)
+/scratch/hamiri/Research/geolife_star/r04/city/l003/id_t526064_l003_77/Checkin.tsv : (0.7942857667152191, 0.2057142332847809)
+/scratch/hamiri/Research/geolife_star/r04/city/l003/id_t526064_l003_41/Checkin.tsv : (0.7942857667152191, 0.2057142332847809)
+/scratch/hamiri/Research/geolife_star/r04/city/l003/id_t526064_l003_96/Checkin.tsv : (0.7942857667152191, 0.2057142332847809)
+/scratch/hamiri/Research/geolife_star/r04/city/l003/id_t526064_l003_134/Checkin.tsv : (0.7942857667152191, 0.2057142332847809)
+/scratch/hamiri/Research/geolife_star/r04/city/l003/id_t526064_l003_187/Checkin.tsv : (0.7942857667152191, 0.2057142332847809)
+/scratch/hamiri/Research/geolife_star/r04/city/l003/id_t526064_l003_74/Checkin.tsv : (0.7942857667152191, 0.2057142332847809)
+/scratch/hamiri/Research/geolife_star/r04/city/l004/id_t526064_l004_88/Checkin.tsv : (0.7111900767579082, 0.28880992324209176)
+/scratch/hamiri/Research/geolife_star/r04/city/l004/id_t526064_l004_44/Checkin.tsv : (0.7111900767579082, 0.28880992324209176)
+/scratch/hamiri/Research/geolife_star/r04/city/l004/id_t526064_l004_108/Checkin.tsv : (0.7111900767579082, 0.28880992324209176)
+/scratch/hamiri/Research/geolife_star/r04/city/l004/id_t526064_l004_16/Checkin.tsv : (0.7111900767579082, 0.28880992324209176)
+/scratch/hamiri/Research/geolife_star/r04/city/l003/id_t526064_l003_52/Checkin.tsv : (0.7942857667152191, 0.2057142332847809)
+/scratch/hamiri/Research/geolife_star/r04/city/l004/id_t526064_l004_158/Checkin.tsv : (0.7111900767579082, 0.28880992324209176)
+/scratch/hamiri/Research/geolife_star/r04/city/l003/id_t526064_l003_113/Checkin.tsv : (0.7942857667152191, 0.2057142332847809)
+/scratch/hamiri/Research/geolife_star/r04/city/l004/id_t526064_l004_147/Checkin.tsv : (0.7111900767579082, 0.28880992324209176)
+/scratch/hamiri/Research/geolife_star/r04/city/l004/id_t526064_l004_126/Checkin.tsv : (0.7111900767579082, 0.28880992324209176)
+/scratch/hamiri/Research/geolife_star/r04/city/l004/id_t526064_l004_160/Checkin.tsv : (0.7111900767579082, 0.28880992324209176)
+/scratch/hamiri/Research/geolife_star/r04/city/l003/id_t526064_l003_259/Checkin.tsv : (1.0835121736913997, -0.08351217369139974)
+/scratch/hamiri/Research/geolife_star/r04/city/l003/id_t526064_l003_235/Checkin.tsv : (0.7942857667152191, 0.2057142332847809)
+/scratch/hamiri/Research/geolife_star/r04/city/l004/id_t526064_l004_247/Checkin.tsv : (0.7111900767579082, 0.28880992324209176)
+/scratch/hamiri/Research/geolife_star/r04/city/l004/id_t526064_l004_119/Checkin.tsv : (0.7111900767579082, 0.28880992324209176)
+/scratch/hamiri/Research/geolife_star/r04/city/l004/id_t526064_l004_171/Checkin.tsv : (0.7111900767579082, 0.28880992324209176)
+/scratch/hamiri/Research/geolife_star/r04/city/l004/id_t526064_l004_79/Checkin.tsv : (0.7111900767579082, 0.28880992324209176)
+/scratch/hamiri/Research/geolife_star/r04/city/l004/id_t526064_l004_206/Checkin.tsv : (0.7111900767579082, 0.28880992324209176)
+/scratch/hamiri/Research/geolife_star/r04/city/l004/id_t526064_l004_222/Checkin.tsv : (0.7111900767579082, 0.28880992324209176)
+/scratch/hamiri/Research/geolife_star/r04/city/l003/id_t526064_l003_201/Checkin.tsv : (0.7942857667152191, 0.2057142332847809)
+/scratch/hamiri/Research/geolife_star/r04/city/l004/id_t526064_l004_64/Checkin.tsv : (0.7111900767579082, 0.28880992324209176)
+/scratch/hamiri/Research/geolife_star/r04/city/l004/id_t526064_l004_250/Checkin.tsv : (0.7111900767579082, 0.28880992324209176)
+/scratch/hamiri/Research/geolife_star/r04/city/l004/id_t526064_l004_204/Checkin.tsv : (0.7111900767579082, 0.28880992324209176)
+/scratch/hamiri/Research/geolife_star/r04/city/l004/id_t526064_l004_94/Checkin.tsv : (0.7111900767579082, 0.28880992324209176)
+/scratch/hamiri/Research/geolife_star/r04/city/l004/id_t526064_l004_6/Checkin.tsv : (0.7111900767579082, 0.28880992324209176)
+/scratch/hamiri/Research/geolife_star/r04/city/l004/id_t526064_l004_78/Checkin.tsv : (0.7111900767579082, 0.28880992324209176)
+/scratch/hamiri/Research/geolife_star/r04/city/l004/id_t526064_l004_10/Checkin.tsv : (0.7111900767579082, 0.28880992324209176)
+/scratch/hamiri/Research/geolife_star/r04/city/l003/id_t526064_l003_29/Checkin.tsv : (0.7942857667152191, 0.2057142332847809)
+/scratch/hamiri/Research/geolife_star/r04/city/l003/id_t526064_l003_171/Checkin.tsv : (0.7942857667152191, 0.2057142332847809)
+/scratch/hamiri/Research/geolife_star/r04/city/l004/id_t526064_l004_232/Checkin.tsv : (0.7111900767579082, 0.28880992324209176)
+/scratch/hamiri/Research/geolife_star/r04/city/l004/id_t526064_l004_244/Checkin.tsv : (0.7111900767579082, 0.28880992324209176)
+/scratch/hamiri/Research/geolife_star/r04/city/l004/id_t526064_l004_19/Checkin.tsv : (0.7111900767579082, 0.28880992324209176)
+/scratch/hamiri/Research/geolife_star/r04/city/l004/id_t526064_l004_17/Checkin.tsv : (0.7111900767579082, 0.28880992324209176)
+/scratch/hamiri/Research/geolife_star/r04/city/l004/id_t526064_l004_235/Checkin.tsv : (0.7111900767579082, 0.28880992324209176)
+/scratch/hamiri/Research/geolife_star/r04/city/l004/id_t526064_l004_221/Checkin.tsv : (0.7111900767579082, 0.28880992324209176)
+/scratch/hamiri/Research/geolife_star/r04/city/l004/id_t526064_l004_59/Checkin.tsv : (0.7111900767579082, 0.28880992324209176)
+/scratch/hamiri/Research/geolife_star/r04/city/l004/id_t526064_l004_251/Checkin.tsv : (0.7111900767579082, 0.28880992324209176)
+/scratch/hamiri/Research/geolife_star/r04/city/l004/id_t526064_l004_104/Checkin.tsv : (0.7111900767579082, 0.28880992324209176)
+/scratch/hamiri/Research/geolife_star/r04/city/l004/id_t526064_l004_25/Checkin.tsv : (0.7111900767579082, 0.28880992324209176)
+/scratch/hamiri/Research/geolife_star/r04/city/l004/id_t526064_l004_202/Checkin.tsv : (0.7111900767579082, 0.28880992324209176)
+/scratch/hamiri/Research/geolife_star/r04/city/l004/id_t526064_l004_101/Checkin.tsv : (0.7111900767579082, 0.28880992324209176)
+/scratch/hamiri/Research/geolife_star/r04/city/l003/id_t526064_l003_60/Checkin.tsv : (0.7942857667152191, 0.2057142332847809)
+/scratch/hamiri/Research/geolife_star/r04/city/l004/id_t526064_l004_12/Checkin.tsv : (0.7111900767579082, 0.28880992324209176)
+/scratch/hamiri/Research/geolife_star/r04/city/l003/id_t526064_l003_149/Checkin.tsv : (0.7942857667152191, 0.2057142332847809)
+/scratch/hamiri/Research/geolife_star/r04/city/l003/id_t526064_l003_151/Checkin.tsv : (0.7942857667152191, 0.2057142332847809)
+/scratch/hamiri/Research/geolife_star/r04/city/l003/id_t526064_l003_221/Checkin.tsv : (0.7942857667152191, 0.2057142332847809)
+/scratch/hamiri/Research/geolife_star/r04/city/l004/id_t526064_l004_17/Checkin.tsv : (0.7111900767579082, 0.28880992324209176)
+/scratch/hamiri/Research/geolife_star/r04/city/l003/id_t526064_l003_250/Checkin.tsv : (0.7942857667152191, 0.2057142332847809)
+/scratch/hamiri/Research/geolife_star/r04/city/l004/id_t526064_l004_233/Checkin.tsv : (0.7111900767579082, 0.28880992324209176)
+/scratch/hamiri/Research/geolife_star/r04/city/l003/id_t526064_l003_215/Checkin.tsv : (0.7942857667152191, 0.2057142332847809)
+/scratch/hamiri/Research/geolife_star/r04/city/l004/id_t526064_l004_132/Checkin.tsv : (0.7111900767579082, 0.28880992324209176)
+/scratch/hamiri/Research/geolife_star/r04/city/l003/id_t526064_l003_229/Checkin.tsv : (0.7942857667152191, 0.2057142332847809)
+/scratch/hamiri/Research/geolife_star/r04/city/l004/id_t526064_l004_173/Checkin.tsv : (0.7111900767579082, 0.28880992324209176)
+/scratch/hamiri/Research/geolife_star/r04/city/l004/id_t526064_l004_240/Checkin.tsv : (0.7111900767579082, 0.28880992324209176)
+/scratch/hamiri/Research/geolife_star/r04/city/l003/id_t526064_l003_216/Checkin.tsv : (0.7942857667152191, 0.2057142332847809)
+/scratch/hamiri/Research/geolife_star/r04/city/l004/id_t526064_l004_220/Checkin.tsv : (0.7111900767579082, 0.28880992324209176)
+/scratch/hamiri/Research/geolife_star/r04/city/l004/id_t526064_l004_243/Checkin.tsv : (0.7111900767579082, 0.28880992324209176)
+/scratch/hamiri/Research/geolife_star/r04/city/l003/id_t526064_l003_80/Checkin.tsv : (0.7942857667152191, 0.2057142332847809)
+/scratch/hamiri/Research/geolife_star/r04/city/l004/id_t526064_l004_191/Checkin.tsv : (0.7111900767579082, 0.28880992324209176)
+/scratch/hamiri/Research/geolife_star/r04/city/l004/id_t526064_l004_173/Checkin.tsv : (0.7111900767579082, 0.28880992324209176)
+/scratch/hamiri/Research/geolife_star/r04/city/l004/id_t526064_l004_291/Checkin.tsv : (1.7099539573333862, -0.7099539573333862)
+/scratch/hamiri/Research/geolife_star/r04/city/l004/id_t526064_l004_183/Checkin.tsv : 0
+/scratch/hamiri/Research/geolife_star/r04/city/l004/id_t526064_l004_243/Checkin.tsv : (0.7111900767579082, 0.28880992324209176)
+/scratch/hamiri/Research/geolife_star/r04/city/l004/id_t526064_l004_202/Checkin.tsv : (0.7111900767579082, 0.28880992324209176)
+/scratch/hamiri/Research/geolife_star/r04/city/l004/id_t526064_l004_314/Checkin.tsv : (1.036216251721741, -0.03621625172174103)
+/scratch/hamiri/Research/geolife_star/r04/city/l004/id_t526064_l004_35/Checkin.tsv : 0
+/scratch/hamiri/Research/geolife_star/r04/city/l004/id_t526064_l004_104/Checkin.tsv : (0.7111900767579082, 0.28880992324209176)
+/scratch/hamiri/Research/geolife_star/r04/city/l004/id_t526064_l004_129/Checkin.tsv : 0
+/scratch/hamiri/Research/geolife_star/r04/city/l004/id_t526064_l004_160/Checkin.tsv : (0.7111900767579082, 0.28880992324209176)
+/scratch/hamiri/Research/geolife_star/r04/city/l004/id_t526064_l004_12/Checkin.tsv : (0.7111900767579082, 0.28880992324209176)
+/scratch/hamiri/Research/geolife_star/r04/city/l004/id_t526064_l004_59/Checkin.tsv : (0.7111900767579082, 0.28880992324209176)
+/scratch/hamiri/Research/geolife_star/r04/city/l004/id_t526064_l004_206/Checkin.tsv : (0.7111900767579082, 0.28880992324209176)
+/scratch/hamiri/Research/geolife_star/r04/city/l004/id_t526064_l004_240/Checkin.tsv : (0.7111900767579082, 0.28880992324209176)
+/scratch/hamiri/Research/geolife_star/r04/city/l004/id_t526064_l004_78/Checkin.tsv : (0.7111900767579082, 0.28880992324209176)
+/scratch/hamiri/Research/geolife_star/r04/city/l004/id_t526064_l004_108/Checkin.tsv : (0.7111900767579082, 0.28880992324209176)
+/scratch/hamiri/Research/geolife_star/r04/city/l004/id_t526064_l004_6/Checkin.tsv : (0.7111900767579082, 0.28880992324209176)
+/scratch/hamiri/Research/geolife_star/r04/city/l004/id_t526064_l004_19/Checkin.tsv : (0.7111900767579082, 0.28880992324209176)
+/scratch/hamiri/Research/geolife_star/r04/city/l004/id_t526064_l004_191/Checkin.tsv : (0.7111900767579082, 0.28880992324209176)
+/scratch/hamiri/Research/geolife_star/r04/city/l004/id_t526064_l004_53/Checkin.tsv : 0
+/scratch/hamiri/Research/geolife_star/r04/city/l004/id_t526064_l004_157/Checkin.tsv : 0
+/scratch/hamiri/Research/geolife_star/r04/city/l004/id_t526064_l004_147/Checkin.tsv : (0.7111900767579082, 0.28880992324209176)
+/scratch/hamiri/Research/geolife_star/r04/city/l004/id_t526064_l004_233/Checkin.tsv : (0.7111900767579082, 0.28880992324209176)
+/scratch/hamiri/Research/geolife_star/r04/city/l004/id_t526064_l004_64/Checkin.tsv : (0.7111900767579082, 0.28880992324209176)
+/scratch/hamiri/Research/geolife_star/r04/city/l004/id_t526064_l004_88/Checkin.tsv : (0.7111900767579082, 0.28880992324209176)
+/scratch/hamiri/Research/geolife_star/r04/city/l004/id_t526064_l004_62/Checkin.tsv : 0
+/scratch/hamiri/Research/geolife_star/r04/city/l004/id_t526064_l004_23/Checkin.tsv : 0
+/scratch/hamiri/Research/geolife_star/r04/city/l004/id_t526064_l004_119/Checkin.tsv : (0.7111900767579082, 0.28880992324209176)
+/scratch/hamiri/Research/geolife_star/r04/city/l004/id_t526064_l004_4/Checkin.tsv : 0
+/scratch/hamiri/Research/geolife_star/r04/city/l004/id_t526064_l004_132/Checkin.tsv : (0.7111900767579082, 0.28880992324209176)
+/scratch/hamiri/Research/geolife_star/r04/city/l004/id_t526064_l004_308/Checkin.tsv : (1.1422768055215198, -0.14227680552151978)
+/scratch/hamiri/Research/geolife_star/r04/city/l004/id_t526064_l004_278/Checkin.tsv : (1.5532830871854766, -0.5532830871854766)
+/scratch/hamiri/Research/geolife_star/r04/city/l004/id_t526064_l004_94/Checkin.tsv : (0.7111900767579082, 0.28880992324209176)
+/scratch/hamiri/Research/geolife_star/r04/city/l004/id_t526064_l004_10/Checkin.tsv : (0.7111900767579082, 0.28880992324209176)
+/scratch/hamiri/Research/geolife_star/r04/city/l004/id_t526064_l004_220/Checkin.tsv : (0.7111900767579082, 0.28880992324209176)
+/scratch/hamiri/Research/geolife_star/r04/city/l004/id_t526064_l004_31/Checkin.tsv : 0
+/scratch/hamiri/Research/geolife_star/r04/city/l004/id_t526064_l004_232/Checkin.tsv : (0.7111900767579082, 0.28880992324209176)
+/scratch/hamiri/Research/geolife_star/r04/city/l004/id_t526064_l004_222/Checkin.tsv : (0.7111900767579082, 0.28880992324209176)
+/scratch/hamiri/Research/geolife_star/r04/city/l004/id_t526064_l004_44/Checkin.tsv : (0.7111900767579082, 0.28880992324209176)
+/scratch/hamiri/Research/geolife_star/r04/city/l004/id_t526064_l004_27/Checkin.tsv : 0
+/scratch/hamiri/Research/geolife_star/r04/city/l004/id_t526064_l004_158/Checkin.tsv : (0.7111900767579082, 0.28880992324209176)
+/scratch/hamiri/Research/geolife_star/r04/city/l004/id_t526064_l004_167/Checkin.tsv : 0
+/scratch/hamiri/Research/geolife_star/r04/city/l004/id_t526064_l004_79/Checkin.tsv : (0.7111900767579082, 0.28880992324209176)
+/scratch/hamiri/Research/geolife_star/r04/city/l004/id_t526064_l004_25/Checkin.tsv : (0.7111900767579082, 0.28880992324209176)
+/scratch/hamiri/Research/geolife_star/r04/city/l004/id_t526064_l004_204/Checkin.tsv : (0.7111900767579082, 0.28880992324209176)
+/scratch/hamiri/Research/geolife_star/r04/city/l004/id_t526064_l004_250/Checkin.tsv : (0.7111900767579082, 0.28880992324209176)
+/scratch/hamiri/Research/geolife_star/r04/city/l004/id_t526064_l004_235/Checkin.tsv : (0.7111900767579082, 0.28880992324209176)
+/scratch/hamiri/Research/geolife_star/r04/city/l004/id_t526064_l004_29/Checkin.tsv : 0
+/scratch/hamiri/Research/geolife_star/r04/city/l004/id_t526064_l004_221/Checkin.tsv : (0.7111900767579082, 0.28880992324209176)
+/scratch/hamiri/Research/geolife_star/r04/city/l004/id_t526064_l004_30/Checkin.tsv : 0
+/scratch/hamiri/Research/geolife_star/r04/city/l004/id_t526064_l004_16/Checkin.tsv : (0.7111900767579082, 0.28880992324209176)
+/scratch/hamiri/Research/geolife_star/r04/city/l004/id_t526064_l004_275/Checkin.tsv : (0.12954613261049333, 0.8704538673895067)
+/scratch/hamiri/Research/geolife_star/r04/city/l004/id_t526064_l004_171/Checkin.tsv : (0.7111900767579082, 0.28880992324209176)
+/scratch/hamiri/Research/geolife_star/r04/city/l004/id_t526064_l004_244/Checkin.tsv : (0.7111900767579082, 0.28880992324209176)
+/scratch/hamiri/Research/geolife_star/r04/city/l004/id_t526064_l004_302/Checkin.tsv : (1.170213305549098, -0.17021330554909797)
+/scratch/hamiri/Research/geolife_star/r04/city/l004/id_t526064_l004_251/Checkin.tsv : (0.7111900767579082, 0.28880992324209176)
+/scratch/hamiri/Research/geolife_star/r04/city/l004/id_t526064_l004_247/Checkin.tsv : (0.7111900767579082, 0.28880992324209176)
+/scratch/hamiri/Research/geolife_star/r04/city/l004/id_t526064_l004_195/Checkin.tsv : 0
+/scratch/hamiri/Research/geolife_star/r04/city/l004/id_t526064_l004_249/Checkin.tsv : 0
+/scratch/hamiri/Research/geolife_star/r04/city/l004/id_t526064_l004_295/Checkin.tsv : (0.1879552314647263, 0.8120447685352736)
+/scratch/hamiri/Research/geolife_star/r04/city/l004/id_t526064_l004_126/Checkin.tsv : (0.7111900767579082, 0.28880992324209176)
+/scratch/hamiri/Research/geolife_star/r04/city/l004/id_t526064_l004_304/Checkin.tsv : (0.6977593704140569, 0.3022406295859431)
+/scratch/hamiri/Research/geolife_star/r04/city/l004/id_t526064_l004_101/Checkin.tsv : (0.7111900767579082, 0.28880992324209176)
+/scratch/hamiri/Research/geolife_star/r04/city/l004/id_t526064_l004_17/Checkin.tsv : (0.7111900767579082, 0.28880992324209176)
+/scratch/hamiri/Research/geolife_star/r04/city/l001/id_t526064_l001_60/Checkin.tsv : (0.5853867137818757, 0.4146132862181243)
+/scratch/hamiri/Research/geolife_star/r04/city/l001/id_t526064_l001_31/Checkin.tsv : (0.5853867137818757, 0.4146132862181243)
+/scratch/hamiri/Research/geolife_star/r04/city/l004/id_t526064_l004_30/Checkin.tsv : (0.7111900767579082, 0.28880992324209176)
+/scratch/hamiri/Research/geolife_star/r04/city/l005/id_t526064_l005_268/Checkin.tsv : (1.329530498026524, -0.3295304980265239)
+/scratch/hamiri/Research/geolife_star/r04/city/l004/id_t526064_l004_27/Checkin.tsv : (0.7111900767579082, 0.28880992324209176)
+/scratch/hamiri/Research/geolife_star/r04/city/l005/id_t526064_l005_279/Checkin.tsv : (1.4458873759437663, -0.44588737594376626)
+/scratch/hamiri/Research/geolife_star/r04/city/l001/id_t526064_l001_15/Checkin.tsv : (0.554588256548019, 0.445411743451981)
+/scratch/hamiri/Research/geolife_star/r04/city/l003/id_t526064_l003_271/Checkin.tsv : (0.6841021340267299, 0.3158978659732701)
+/scratch/hamiri/Research/geolife_star/r04/city/l001/id_t526064_l001_39/Checkin.tsv : (0.5541637480551009, 0.44583625194489906)
+/scratch/hamiri/Research/geolife_star/r04/city/l004/id_t526064_l004_62/Checkin.tsv : (0.7111900767579082, 0.28880992324209176)
+/scratch/hamiri/Research/geolife_star/r04/city/l005/id_t526064_l005_84/Checkin.tsv : (0.13406156571084865, 0.8659384342891514)
+/scratch/hamiri/Research/geolife_star/r04/city/l005/id_t526064_l005_75/Checkin.tsv : (0.13406156571084865, 0.8659384342891514)
+/scratch/hamiri/Research/geolife_star/r04/city/l004/id_t526064_l004_31/Checkin.tsv : (0.7111900767579082, 0.28880992324209176)
+/scratch/hamiri/Research/geolife_star/r04/city/l005/id_t526064_l005_87/Checkin.tsv : (0.13406156571084865, 0.8659384342891514)
+/scratch/hamiri/Research/geolife_star/r04/city/l005/id_t526064_l005_92/Checkin.tsv : (0.13406156571084865, 0.8659384342891514)
+/scratch/hamiri/Research/geolife_star/r04/city/l004/id_t526064_l004_35/Checkin.tsv : (0.7111900767579082, 0.28880992324209176)
+/scratch/hamiri/Research/geolife_star/r04/city/l005/id_t526064_l005_22/Checkin.tsv : (0.13406156571084865, 0.8659384342891514)
+/scratch/hamiri/Research/geolife_star/r04/city/l004/id_t526064_l004_195/Checkin.tsv : (0.7111900767579082, 0.28880992324209176)
+/scratch/hamiri/Research/geolife_star/r04/city/l005/id_t526064_l005_87/Checkin.tsv : (0.13406156571084865, 0.8659384342891514)
+/scratch/hamiri/Research/geolife_star/r04/city/l005/id_t526064_l005_190/Checkin.tsv : 0
+/scratch/hamiri/Research/geolife_star/r04/city/l005/id_t526064_l005_154/Checkin.tsv : (0.6072172696659887, 0.39278273033401134)
+/scratch/hamiri/Research/geolife_star/r04/city/l005/id_t526064_l005_210/Checkin.tsv : (0.09333879244437751, 0.9066612075556225)
+/scratch/hamiri/Research/geolife_star/r04/city/l005/id_t526064_l005_91/Checkin.tsv : (0.6072172696659887, 0.39278273033401134)
+/scratch/hamiri/Research/geolife_star/r04/city/l005/id_t526064_l005_155/Checkin.tsv : (0.6072172696659887, 0.39278273033401134)
