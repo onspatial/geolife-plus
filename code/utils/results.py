@@ -3,7 +3,7 @@ from utils.params import get_empty_param, save_params_to_file, get_extended_para
 from test.utils import is_valid
 from utils.constants.config import get_agent_numbers, get_end_times
 from utils.constants.params import get_useless_properties
-
+import copy
 import random
 def get_top_params(threshold=0.8):
     top_params = []
@@ -24,7 +24,7 @@ def get_top_params(threshold=0.8):
     return top_params
 def get_initial_parameters(input_params):
     if not file.exists("results/params.initial.json"):
-        initial_params = input_params.copy()
+        initial_params = copy.deepcopy(input_params)
         save_params_to_file(initial_params, f"results/params.initial.json")
     else:
         initial_params = file.load_json("results/params.initial.json")
@@ -33,7 +33,7 @@ def get_initial_parameters(input_params):
 
 def get_filtered_params(input_params):
     under_review = []
-    under_review = input_params.copy()
+    under_review = copy.deepcopy(input_params)
     under_review = get_sorted_params(under_review)
     under_review = add_id_to_params(under_review, "under_review")
     under_review = remove_duplicate_params(under_review)
@@ -94,7 +94,7 @@ def get_reviewed_params(input_params):
         save_params_to_file(min_param, "results/review/params.min.json")
         save_params_to_file(mean_param, "results/review/params.mean.json")
         save_params_to_file(std_param, "results/review/params.std.json")
-        reviewed_params = input_params.copy()
+        reviewed_params = copy.deepcopy(input_params)
         reviewed_params = get_cleaned_params(reviewed_params)
         reviewed_params = get_filtered_params(reviewed_params)
 
@@ -219,8 +219,9 @@ def configure_agent_numbers(input_params):
             temp['properties'] = {}
             temp['properties'].update(param['properties'])
             temp['properties']['numOfAgents'] = agent_number
-            temp['score'] = param['score']
-            temp['previous_score'] = param['score']
+            if 'score' in param:
+                temp['score'] = param['score']
+                temp['previous_score'] = param['score']
             temp['end_time'] = end_times[agent_number]
             configured_params += [temp]       
     return configured_params

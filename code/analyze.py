@@ -8,12 +8,13 @@ from utils.file import get_absolute_path
 import pandas
 import os
 if __name__ == "__main__":
-    if not os.path.exists(get_absolute_path("/home/hosseinamiri/Research/geopol-dev/results/params.top.json")):
-        # df2 = params.get_dataframe_from_json("/home/hosseinamiri/Research/geopol-dev/params.init.json")
-        # df3 = params.get_dataframe_from_json("/home/hosseinamiri/Research/geopol-dev/params.pool.aws.json")
-        df = params.get_dataframe_from_json("/home/hosseinamiri/Research/geopol-dev/params.pool.json")
-        # df5 = params.get_dataframe_from_json("/home/hosseinamiri/Research/geopol-dev/params.pool.terminated.json")
-        # df6 = params.get_dataframe_from_json("/home/hosseinamiri/Research/geopol-dev/params.pool1.json")
+    if not os.path.exists(get_absolute_path("results/params.top.json")):
+        df = pandas.DataFrame()
+        # df2 = params.get_dataframe_from_json("params.init.json")
+        # df3 = params.get_dataframe_from_json("params.pool.aws.json")
+        # df = params.get_dataframe_from_json("params.pool.json")
+        # df5 = params.get_dataframe_from_json("params.pool.terminated.json")
+        # df6 = params.get_dataframe_from_json("params.pool1.json")
         # df = pandas.concat([df2, df3, df4, df5, df6])
         df.to_csv(get_absolute_path("data/all_params.csv"))
     else:

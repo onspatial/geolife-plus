@@ -1,4 +1,5 @@
 from utils.params import get_mixed_param, add_type_to_params, add_id_to_params, shuffle_params, save_params_to_file
+import copy
 from utils.helpers import get_random_list
 from utils.constants.config import get_layer_width, get_num_of_each_params_type
 
@@ -47,7 +48,8 @@ def get_reset_score(params):
         param["score"] = 0
     return params
 
-def get_layer_params(params, id, num_of_each_params_type=get_num_of_each_params_type()):
+def get_layer_params(pool_params, id, num_of_each_params_type=get_num_of_each_params_type()):
+    params = copy.deepcopy(pool_params)
     max_params = get_params(params,type="max", num_of_params=num_of_each_params_type)
     min_params = get_params(params, type="min", num_of_params=num_of_each_params_type)
     mean_params = get_params(params, type="mean", num_of_params=num_of_each_params_type)

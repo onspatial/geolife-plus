@@ -1,6 +1,6 @@
 ssh_command="ssh hamiri@cirrostratus.it.emory.edu"
 remote_machine="hamiri@cirrostratus.it.emory.edu"
-remote_path="/scratch/hamiri/Research/geolife_star/r04"
+remote_path="/scratch/hamiri/Research/geolife_star/res01"
 local_path=$(dirname $(dirname $(realpath $0)))
 echo "local_path: $local_path"
 where=$1
@@ -46,8 +46,10 @@ run_remote() {
 }
 scp_to_local() {
     echo "scp to local "
-    scp -r $remote_machine:$remote_path/params.pool.json $local_path/geopol-dev/params.pool.aws64.json
-    scp -r $remote_machine:$remote_path/results_score.log.txt $local_path/geopol-dev/results_score.log.aws64.txt
+    id=data_generation
+    scp -r $remote_machine:$remote_path/params.pool.json $local_path/geopol-dev/params.pool.$id.json
+    scp -r $remote_machine:$remote_path/results_score.log.txt $local_path/geopol-dev/results_score.$id.log.txt
+    scp -r $remote_machine:$remote_path/pole/* $local_path/geopol-dev/pole_$id
 
 }
 if [ "$where" == "remote" ]; then

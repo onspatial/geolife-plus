@@ -1,15 +1,90 @@
 import os
 import utils.file as file
-from utils.constants.params import properties_fixed, get_default_param
+
+from utils.constants.params import properties_fixed, get_default_param,get_global_values
 from utils.constants.config import get_pool_size, get_weak_score, get_float_keys
 from test.utils import get_other_bound, is_valid
 import time 
+import copy
+
+def get_param_by_id(params, id):
+    for param in params:
+        if param['id'] == id:
+            return param
+    print(f"param with id {id} not found")
+    return None
+
+def compare_params(params1, params2):
+    for param1 in params1:
+        param2 = get_param_by_id(params2, param1["id"])
+        test_result = compare_param(param1, param2)
+        if test_result == False:
+            print(f"Test failed for {param1['id']}")
+            return False
+    return True
+
+def compare_param(param1, param2, exceptions = get_global_values()['exceptions'],message=""):
+    if param1 == param2:
+        return True
+    if param1 == None or param2 == None:
+        if message == "":
+            print("param1 or param2 is None")
+        else:
+            print(f"{message}: param1 or param2 is None")
+        return False
+
+    
+    for key in param1:
+        if key not in param2:
+            if message == "":
+                print(f"1: Key {key} not found in {param2['id']}")
+            else:
+                print(f"1: Key {key} not found in {message}")
+            return False
+        if param1[key] != param2[key]:
+            if key in exceptions:
+                return True
+            if key == 'properties':
+                return compare_param(param1[key], param2[key], exceptions, param2['id'])
+            
+            if'id' in param1 and id in param2:
+                if message == "":
+                    print(f"2: Key {key} not equal in {param2['id']}")
+                    print(f"param1: {param1[key]}")
+                    print(f"param2: {param2[key]}")
+                else:
+                    print(f"2: Key {key} not equal in {message}")
+                    
+            else:
+                if message == "":
+                    print(f"3: Key {key} not equal in params")
+                    print(f"param1: {param1[key]}")
+                    print(f"param2: {param2[key]}")
+                else:
+                    print(f"3: Key {key} not equal in {message}")
+                    print(f"param1: {param1[key]}")
+                    print(f"param2: {param2[key]}")
+            
+            return False
+        if type(param1[key]) != type(param2[key]):
+            if message == "":
+                print(f"4: Key {key} not same type in {param2['id']}")
+                print(f"param1: {param1[key]}")
+                print(f"param2: {param2[key]}")
+            else:
+                print(f"4: Key {key} not same type in {message}")
+                print(f"param1: {param1[key]}")
+                print(f"param2: {param2[key]}")
+            return False
+        if key in param1 and key in param2 and isinstance(param1[key], dict) and isinstance(param2[key], dict):
+            return compare_param(param1[key], param2[key])
+    return True
 
 def save_params_to_file(params, filename="params.init.json"):
 
     if not params:
-        print("params is empty, returning...")
-        time.sleep(10)
+        print(f"params for {filename} is empty, returning...")
+        time.sleep(1)
         return
     if not isinstance(params, list):
         params = [params]
@@ -19,8 +94,8 @@ def save_params_to_file(params, filename="params.init.json"):
     with open(filename, "w") as f:
         dump(params, f)
 
-def get_pool_params():
-    pool_params = get_from_json("params.pool.json")
+def get_pool_params(pool_param_file="params.pool.json"):
+    pool_params = get_from_json(pool_param_file)
     pool_params = get_sorted_params(pool_params)
     return pool_params
 
@@ -122,10 +197,17 @@ def get_polished_param(param, type="sample"):
     param['type'] = type
     return param
 
+def get_params_in_folder(folder_path):
+    params = []
+    files = file.get_files_in_folder(folder_path)
+    print(f"{len(files)} files found in {folder_path}")
+    for f in files:
+        params += get_from_json(f'{folder_path}/{f}')
+    return params
 
 def shuffle_params(params):
     from random import shuffle
-    shuffled_params = params.copy()
+    shuffled_params = copy.deepcopy(params)
     shuffle(shuffled_params)
     return shuffled_params
 
@@ -332,21 +414,29 @@ def add_id_to_params(params,  prefix = "init"):
     for i, param in enumerate(params):
         param['id'] = prefix + str(i)
     return params
+def print_best_scores(num=10):
+    pool_params = get_pool_params()
+    for i in range(num):
+        print(f"Best score so far: {pool_params[i]['score']}")
 
-def update_pool(pool_params, params, counter):
-    pool_params = pool_params + params
-    pool_params = get_sorted_params(pool_params)
-    if len(pool_params) > get_pool_size():
-        pool_params = pool_params[:get_pool_size()]
-    pool_params = old_weak_killer(pool_params, counter)
-    save_params_to_file(pool_params, "params.pool.json")
+def get_best_score():
+    pool_params = get_pool_params()
+    return pool_params[0]['score']
+
+def update_pool(pool_params, params, counter, pool_param_file="params.pool.json"):
+    updated_pool_params = copy.deepcopy(pool_params) + copy.deepcopy(params)
+    updated_pool_params = get_sorted_params(updated_pool_params)
+    if len(updated_pool_params) > get_pool_size():
+        updated_pool_params = updated_pool_params[:get_pool_size()]
+    updated_pool_params = old_weak_killer(updated_pool_params, counter)
+    save_params_to_file(updated_pool_params, pool_param_file)
 
 def old_weak_killer(pool_params, counter):
     weak_score = get_weak_score(counter)
     pool_params = [param for param in pool_params if param['score'] > weak_score]
     return pool_params
 
-def initialization(timestamp=1):
+def initialization(run_id=1):
     try:
         print("Initializing...")
         print(f"current path: {os.getcwd()}")   
@@ -366,10 +456,15 @@ def initialization(timestamp=1):
             params = get_from_json("params.init.json")
             params = get_extended_params(params)
             params = get_top_params(params, k=get_pool_size())
-            params = add_id_to_params(params, "l000")
+            params = add_id_to_params(params,run_id)
             params = add_type_to_params(params, "init")
             save_params_to_file(params, "params.pool.json")
-            save_params_to_file(params, f"pole/params.t{timestamp}_l000.json")
+            save_params_to_file(params, f"pole/params.{run_id}.json")
+        else:
+            print("Pool already exists")
+            params = get_pool_params()
+            save_params_to_file(params, f"pole/params.{run_id}.json")            
+
 
     except Exception as e:
         print(f"Error in initialization: {e}")

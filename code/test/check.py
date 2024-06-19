@@ -2,7 +2,7 @@ import utils.constants.params as constants
 import test.utils as utils
 import test.fixes as fixes
 import utils.log as log
-
+import utils.params as params
    
 def is_bound_compatible_compared_to(min, max):
     test_result = True
@@ -108,6 +108,15 @@ def is_compatible_compared_to(min, max):
         return test_result
     return test_result
 
-
-
-
+def pool_param_consistency(pool_param_file="params.pool.json"):
+    test_result = True
+    pool_params = params.get_pool_params(pool_param_file)
+    for pool_param in pool_params:
+        name = pool_param["id"].split("_")[1]+'_'+pool_param["id"].split("_")[2]
+        previous_params = params.get_pool_params(f"pole/params.{name}.json")
+        previous_param = params.get_param_by_id(previous_params, pool_param["id"])
+        test_result = params.compare_param(pool_param, previous_param)
+        if test_result == False:
+            return test_result  
+   
+    return test_result

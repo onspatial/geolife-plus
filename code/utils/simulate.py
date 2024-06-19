@@ -1,17 +1,24 @@
 from time import sleep
 from utils.constants.params import get_updated_properties
+import utils.params as params_utils
 from utils.constants.config import get_jar_path, get_parallel_runs, get_end_time, get_agent_numbers
 import utils.file as file
 import scorer as pol_score
+import utils.log as log
 from random import random
 import time
-import os
-import subprocess
+
+
 def run(params, shuffle=True, fork_join=True, check_time=6000, parallel=get_parallel_runs(type="dynamic")):
     print(len(params), "params received...")
+    log.note(f"Running {len(params)} params with fork_join={fork_join} and parallel={parallel}, shuffle={shuffle}",filename="simulate.log.txt")
+
     if shuffle:
         params = shuffle_params(params)
+
     configured_params = get_configure_params(params)
+
+    log.note(f"configured {len(configured_params)} params...",filename="simulate.log.txt")
     configured_params = run_configured_params(configured_params, fork_join=fork_join, check_time=check_time, parallel=parallel)
     configured_params = get_scored_params(configured_params)
     save_params_to_file(configured_params)
@@ -22,7 +29,8 @@ def shuffle_params(params):
     print("shuffling params...")
     return sorted(params, key=lambda x: random())
 
-def run_configured_params(configured_params, parallel=get_parallel_runs(type="not-dynamic"), fork_join=True, check_time=60):
+def run_configured_params(configured_params, parallel=get_parallel_runs(type="dynamic"), fork_join=True, check_time=60):
+
     print(f"running {len(configured_params)} configured params... with fork_join={fork_join}")
     if  fork_join:
         configured_params = run_fork_join(configured_params, parallel)
@@ -31,6 +39,7 @@ def run_configured_params(configured_params, parallel=get_parallel_runs(type="no
     return configured_params
 
 def run_in_queue(configured_params, parallel, check_time=60):
+
     count = 0
     run_queue = []
     for configured_param in configured_params:
@@ -38,38 +47,66 @@ def run_in_queue(configured_params, parallel, check_time=60):
         configured_param["status"] = "running"
         save_configured_param_to_file(configured_param)
         command_dir = get_parent_dir(configured_param["config"])
-        if not file.exists(f"{command_dir}/processed.done"):
+        if count < len(configured_params) and not file.exists(f"{command_dir}/processed.done"):
             run_queue.append(prepare_shell(configured_param, f"{command_dir}/command.sh", append=False))
-    run_queue.append(prepare_shell(configured_params[-1], f"{command_dir}/command.sh", append=True, command="wait"))
+        elif count == len(configured_params):
+            run_queue.append(prepare_shell(configured_param, f"{command_dir}/command.sh", append=True, command="wait"))
+        elif count > len(configured_params):
+            raise Exception(f"Error in run_in_queue: count={count} > len(configured_params)={len(configured_params)}")
+
     process_running(run_queue, parallel, check_time)
   
     return configured_params 
 
+
 def process_running(run_queue, parallel, check_time=60):
 
-    count = 0
+
+    total_count = len(run_queue)
+    loop_counter = 0
+    running_count = 0
+    previous_finished = finished_count = 0
     online_process_dirs = []
     while len(run_queue) > 0:
-        if count < parallel:
+        loop_counter += 1
+        previous_finished = finished_count
+        if running_count < parallel:
             process = run_queue.pop(0)
             online_process_dirs.append(process['run_dir'])
-            print(f"running {process['run_dir']}...")
+            print(f"running {process['run_dir'].split('/')[-1]}...")
             file.run_shell(f'{process["run_dir"]}/command.sh')
-            count += 1
+            log.note(f"running {process['run_dir']}...",filename="simulate.log.txt")
+            running_count += 1
         else:
             time.sleep(check_time)
-            count -= get_finished_process(online_process_dirs)
-        # print("all running processes:\n", '\n'.join(online_process_dirs))
-    return run_queue
+            finished_process = get_finished_process(online_process_dirs,loop_counter)
+            if finished_process != 0:
+                running_count -= finished_process
+                finished_count += finished_process
+                
 
-def get_finished_process(online_process_dirs):
+        if finished_count != previous_finished:
+            print(f"{finished_count}/{total_count} finished...")
+
+    print("all processes finished...")
+    return run_queue
+def get_random_spin(number):
+    spins = [".....", "o....", ".o...", "..o..", "...o."]
+    return spins[number % len(spins)]
+
+def get_finished_process(online_process_dirs, loop_counter):
     count = 0
+    spin = get_random_spin(loop_counter)
+    print(f"waiting for {len(online_process_dirs)} processes.{spin}. Best pool score: {params_utils.get_best_score()}", end="\r")
+
     for run_dir in online_process_dirs:
-        print(f"checking {run_dir}...")
+        # print(f"checking {run_dir}...")
         if file.exists(f"{run_dir}/processed.done"):
+            log.note(f"finished {run_dir}...",filename="simulate.log.txt")
             online_process_dirs.remove(run_dir)
             count += 1
-    print(f"finished {count} processes...")
+    if count > 0:
+        print(f"finished {count} processes...")
     return count
 
 def prepare_shell(configured_param, output_path="tmp/run.sh", append=True, command=None):
@@ -93,7 +130,6 @@ def run_fork_join(configured_params, parallel):
             print(f"running {parallel} shells...")
             run_shells() 
 
-   
     return configured_params 
 
 

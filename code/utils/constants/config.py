@@ -1,3 +1,4 @@
+import time
 def get_min_parents():
     min_number_of_random_parents = 2
     return min_number_of_random_parents
@@ -24,6 +25,7 @@ def get_end_time(type="final"):
         end_time = 551426
     elif type == "test":
         end_time = 100
+        print(f"WARNING: End time is set to {end_time} for testing purposes.")
     return end_time
 def get_weak_score(counter=1):
     perfect_score = 0.98

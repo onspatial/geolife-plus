@@ -6,7 +6,14 @@ import subprocess
 import pandas
 import test.file as test_file
 
-def integrate_log_files(log_dir, file_prefix, appended_file):
+def get_sub_dirs(path):
+    path = get_absolute_path(path)
+    dirs = [f.path for f in os.scandir(path) if f.is_dir()]
+    return dirs
+def get_files_in_folder(folder_path):
+    return [f for f in os.listdir(folder_path) if os.path.isfile(os.path.join(folder_path, f))]
+
+def integrate_log_files(log_dir, file_prefix, appended_file, command='cat',remove_original=False):
     log_files = find(log_dir, file_prefix)
     log_files = fix_number_in_names(log_files, accuracy=3)
     log_files.sort()
@@ -15,17 +22,29 @@ def integrate_log_files(log_dir, file_prefix, appended_file):
         if get_file_extension(log_file) == '.zip':
             unzipped_file = unzip(log_file)
             print(f"Unzipped {log_file} to {unzipped_file}")
-            appended_file = append(unzipped_file, appended_file)
+            appended_file = append(unzipped_file, appended_file, command=command)
             remove(unzipped_file)
             print(f"Appended {unzipped_file} to {appended_file}")
         else:
-            appended_file = append(log_file, appended_file)
+            appended_file = append(log_file, appended_file, command=command)
             print(f"Appended {log_file} to {appended_file}")
     
     test_file.check_sorted_column(appended_file, time_column=1)
+    if remove_original:
+        for log_file in log_files:
+            remove(log_file)
     return appended_file
 
-
+def zip(file):
+    file = get_absolute_path(file)
+    if not exists(file):
+        print(f"{file} does not exist...")
+        return
+    if file.endswith(".zip"):
+        print(f"{file} is already a zip file...")
+        return file
+    os.system(f"cd {get_file_path(file)} && zip -r {get_file_name(file).split('.')[0]}.zip {get_file_name(file)}")
+    return f"{get_file_path(file)}/{get_file_name(file)}.zip"
 def get_file_list(path):
     path = get_absolute_path(path)
     file_list = []
@@ -51,7 +70,7 @@ def new_file(file):
     file = get_absolute_path(file)
     os.system(f"cat /dev/null > {file}")
     return file
-def append(temp, target, new=False):
+def append(temp, target, new=False, command='cat'):
     check_safety(target)
     temp = get_absolute_path(temp)
     target = get_absolute_path(target)
@@ -59,10 +78,11 @@ def append(temp, target, new=False):
         print(f"{temp} does not exist...")
         return
     if new:
-        os.system(f"cat {temp} > {target}")
+        os.system(f"{command} {temp} > {target}")
     else:
-        os.system(f"cat {temp} >> {target}")
+        os.system(f"{command} {temp} >> {target}")
     return target
+
 def remove(file):
     file = get_absolute_path(file)
     if not exists(file):
@@ -170,7 +190,7 @@ def save_json(data, path):
 
 def load_json(path):
     path = get_absolute_path(path)
-    print(f"Loading data from {path}")
+    # print(f"Loading data from {path}")
     from json import load
     with open(path) as f:
         data = load(f)
@@ -270,7 +290,7 @@ def delete_file(path, trash=True):
             os.remove(path)
 
 def delete_folder(dir, trash=True):
-    path = get_absolute_path(path)
+    dir = get_absolute_path(dir)
     import time
     if exists(dir):
         print(f"Deleting {dir}...")
@@ -296,26 +316,31 @@ def run_shell(path, select=True):
 def add_to_shell(path, output_path="tmp/run.sh", append=True, command=None):
     path = get_absolute_path(path)
     output_path = get_absolute_path(output_path)
+    check_safety(output_path)
+    execution_command = get_execution_command(path)
+    os.system(f"echo '{execution_command}' > {output_path}")
+
+    if append and command is not None:
+        os.system(f"echo '{command}' >> {output_path}")
+        execution_command = f'{execution_command} && {command}'
+
+    return execution_command
+
+def get_execution_command(path):
     run_dir = get_parent(path)
     log_dir = f"{run_dir}/logs/logs"
-    check_safety(output_path)
     integrated_checkin_path = get_integrated_checkin_path(path, integration=False)
     project_path = get_project_path()
-    if command is None:
-        cd_dir = f"cd {run_dir}"
-        touch_run_lock = "touch run.lock"
-        run_sh = "sh run.sh 2>&1 > run.log.txt"
-        touch_run_unlock = "touch run.unlock"
-        python_integrate = f"{get_python_path()} {project_path}/code/integrate.py {log_dir} Checkin {integrated_checkin_path} 2>&1 > integrate.log.txt"
-        python_scorer = f"{get_python_path()} {project_path}/code/scorer.py {integrated_checkin_path} 2>&1 > calculation.log.txt"
-        touch_processed_done = f"touch processed.done"
-        command = f"{cd_dir} && {touch_run_lock} &&  {run_sh} && {touch_run_unlock} && {python_integrate} && {python_scorer} && {touch_processed_done} &"
-    
-    if append:
-        os.system(f"echo '{command}' >> {output_path}")
-    else:
-        os.system(f"echo '{command}' > {output_path}")
-    return command  
+
+    cd_dir = f"cd {run_dir}"
+    touch_run_lock = "touch run.lock"
+    run_sh = "sh run.sh 2>&1 > run.log.txt"
+    touch_run_unlock = "touch run.unlock"
+    python_integrate = f"{get_python_path()} {project_path}/code/integrate.py {log_dir} Checkin {integrated_checkin_path} 2>&1 > integrate.log.txt"
+    python_scorer = f"{get_python_path()} {project_path}/code/scorer.py {integrated_checkin_path} 2>&1 > calculation.log.txt"
+    touch_processed_done = f"touch processed.done"
+    execution_command = f"{cd_dir} && {touch_run_lock} &&  {run_sh} && {touch_run_unlock} && {python_integrate} && {python_scorer} && {touch_processed_done} &"
+    return execution_command
 
 def add_wait_to_shell(output_path="tmp/run.sh"):
     output_path = get_absolute_path(output_path)
@@ -357,7 +382,7 @@ def get_integrated_checkin_path(path, integration=False):
             return integrated_checkin_path
         return integrate_log_files(log_dir, "Checkin", integrated_checkin_path)
     
-def get_files(pattern, folder=None):
+def get_files(pattern, folder=None,verbose=True):
     import os
     files_path = []
     extension = pattern.split(".")[-1]
@@ -366,7 +391,8 @@ def get_files(pattern, folder=None):
     if folder is None and "/" in pattern:
         folder = pattern.split("/")[0]
         file_name_pattern = pattern.split("/")[-1]
-        print(f'Searching in {folder} for {file_name_pattern}...')
+        if verbose:
+            print(f'Searching in {folder} for {file_name_pattern}...')
     elif folder is None and "/" not in pattern:
         folder = ""
         file_name_pattern = pattern
@@ -381,7 +407,8 @@ def get_files(pattern, folder=None):
     for file_path in files_path:
         if  extension in file_path:
            founded_paths.append(file_path)
-    print(f"Found {len(founded_paths)} files with extension {extension} in {search_dir}...")
+    if verbose:
+        print(f"Found {len(founded_paths)} files with extension {extension} in {search_dir}...")
     return founded_paths
 
 def get_match_files(files, file_name_pattern):
