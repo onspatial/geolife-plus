@@ -10,4 +10,6 @@ The following table provides information for the generated data. We run the data
 ![image](https://github.com/onspatial/geolife-star/assets/168866932/57a70eae-543f-4aa6-9a73-6f320dac764f)
 
 
-The score can range from negative to 1, not only between 0 and 1. It varies from negative semi-infinity to 1, depending on the metrics. As the number of agents increases or the number of days decreases, the score will drop due to the vast number of places, or less days impacting the number of trips and distances traveled in the simulation.
+The score can range from negative to 1, not only between 0 and 1. It varies from negative semi-infinity to 1, depending on the metrics. As the number of agents increases or the number of days decreases, the score will drop due to the vast number of places, or less days impacting the number of trips and distances traveled in the simulation. This is because, in the simulation parameters studied, certain parameters affect the number of preferred locations, and agents are more likely to visit the nearest places. As the map becomes denser, the travel duration decreases. Additionally, the duration of the simulation is important because the agents' behavior may change over time due to financial situations, workplace changes, etc., which alter the distances traveled each day. Consequently, the averages in a longer simulation, such as over five years, will differ.
+
+For simulations with larger data sizes, the results will be updated once the simulation is completed.
